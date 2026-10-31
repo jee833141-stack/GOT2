@@ -172,6 +172,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Libro de sangre de Daenerys** (salió de Rocadragón), sobre esa rama: *"Se fueron hacia el frío. Y el frío no los quiso matar. Que no se escriban sus nombres, para que el fuego no los encuentre."*
 - **La nana de Seyue** (alto valyrio antiguo; la cantaba a Sansa y a Elys): *"Duerme, luna mía. El frío es tu manta. El fuego no sabe tu nombre. Nadie te encontrará."* **La melodía es la misma que Viserys tarareaba a Daenerys.**
 - **Bertyn lo adivinó** (o lo sospechó) y se negó a contarlo.
+- **Añadido en partida (recuerdo de Essos, 293–295):** en Pentos, Elys y Aldric salvaron de unos raptores a una niña de pelo blanco que se había separado de su hermano (Daenerys, sin saber Elys entonces quién era con certeza). Elys le dio oro para comer y se fue. Ella no sabe su nombre.
 - **Quién lo sabe al arrancar:** nadie con certeza. Bertyn lo sospechaba y se niega a contarlo (muerto en el Punto F; vivo en el G); Elys intuye algo que prefiere "olvidar". Daenerys tiene el libro de sangre pero no conoce a Elys.
 
 ### 10.2 La boda de Bertyn y Seyue (versión verdadera)
