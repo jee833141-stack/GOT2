@@ -112,7 +112,7 @@
   - **Venenos:** solo a las Ciudades Libres, mediante intermediarios. (Los introdujo Elys; no los hacía su padre.) **Los dirige Veyra**, que también se encarga de arreglar las fugas (información, personas, rastros).
   - **Compañía Dorada:** Elys **no hace negocios directos** con ella. Comerciantes compran al por mayor lo que salen de las fraguas de Elys, **sin sellos de la casa**, y lo venden en Essos; así llegan las armas a la Compañía.
   - **El Banco de Hierro les debe a ellos.**
-- **Magistrado Frendin (Pentos):** debe a Elys la vida. Elys lo salvó de un khal a cambio de una carreta de carne y cuero (viaje a Essos de 293–295). Prueba: **un medallón con una huella de sangre**. Es la fuente del rumor de Pentos (Viserys y Daenerys negocian con los dothrakis).
+- **Magistrado Frendin (Pentos):** debe a Elys la vida. Elys lo salvó de un khal a cambio de una carreta de carne y cuero (viaje a Essos de 293–295). Prueba: **un medallón con una huella de sangre**. Al salvarlo, Elys recibió una herida que le **perforó un pulmón** (curada en Essos; no la cosió Aldric). Ni Bertyn ni los Stark lo supieron hasta que Elys se lo contó a Ned y Catelyn en la partida. Es la fuente del rumor de Pentos (Viserys y Daenerys negocian con los dothrakis).
 - **Secretos grandes:** solo los conocen **Elys, Veyra, Aldric y Mira.**
 
 ### Los hermanos (versión real; la pública es "vicios")
