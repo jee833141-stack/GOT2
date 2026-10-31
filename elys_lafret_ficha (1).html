@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elys Lafret — Casa Lafret</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+  :root {
+    --negro:    #0a0a0c;
+    --carbon:   #131318;
+    --plomo:    #1e1e28;
+    --plata:    #c8cdd8;
+    --plata2:   #8a909e;
+    --blanco:   #edeef2;
+    --veneno:   #4a7c59;
+    --veneno2:  #2e4f38;
+    --acero:    #5a6070;
+    --sangre:   #6b1a1a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--negro);
+    color: var(--blanco);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.75;
+    min-height: 100vh;
+  }
+
+  /* ── CABECERA ── */
+  header {
+    background: var(--carbon);
+    border-bottom: 1px solid var(--acero);
+    padding: 3rem 2rem 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 0%, rgba(74,124,89,0.10) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.35em;
+    color: var(--veneno);
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(2.4rem, 6vw, 4rem);
+    font-weight: 900;
+    color: var(--plata);
+    letter-spacing: 0.04em;
+    line-height: 1.1;
+  }
+
+  .subtitulo {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--plata2);
+    margin-top: 0.6rem;
+  }
+
+  .divider {
+    width: 120px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--veneno), transparent);
+    margin: 1.6rem auto 0;
+  }
+
+  /* ── LEMA ── */
+  .lema-banda {
+    background: var(--veneno2);
+    border-top: 1px solid var(--veneno);
+    border-bottom: 1px solid var(--veneno);
+    padding: 0.75rem 2rem;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    color: var(--plata);
+  }
+
+  /* ── CONTENIDO ── */
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+    display: grid;
+    gap: 2.5rem;
+  }
+
+  /* ── BLOQUE ── */
+  .bloque {
+    background: var(--carbon);
+    border: 1px solid var(--plomo);
+    border-left: 3px solid var(--veneno);
+    padding: 1.8rem 2rem;
+  }
+
+  .bloque-titulo {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--veneno);
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--plomo);
+  }
+
+  /* ── GRID DE DATOS ── */
+  .datos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.2rem 2rem;
+  }
+
+  .dato {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .dato-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--plata2);
+  }
+
+  .dato-valor {
+    font-size: 1rem;
+    color: var(--blanco);
+  }
+
+  /* ── PÁRRAFOS ── */
+  .bloque p {
+    color: var(--plata);
+    margin-bottom: 0.9rem;
+  }
+  .bloque p:last-child { margin-bottom: 0; }
+
+  em { color: var(--plata2); font-style: italic; }
+
+  /* ── LISTA DE RASGOS ── */
+  .rasgos {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.6rem;
+  }
+
+  .rasgos li {
+    background: var(--plomo);
+    border-left: 2px solid var(--veneno);
+    padding: 0.4rem 0.8rem;
+    font-size: 0.95rem;
+    color: var(--plata);
+  }
+
+  /* ── CITA ── */
+  .cita {
+    background: var(--plomo);
+    border-left: 3px solid var(--sangre);
+    padding: 1.2rem 1.6rem;
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--plata);
+    margin: 1rem 0;
+  }
+
+  /* ── TABLA HERMANOS ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+
+  th {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--veneno);
+    padding: 0.5rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid var(--acero);
+  }
+
+  td {
+    padding: 0.6rem 0.8rem;
+    border-bottom: 1px solid var(--plomo);
+    color: var(--plata);
+    vertical-align: top;
+  }
+
+  tr:last-child td { border-bottom: none; }
+
+  .estado-muerto { color: var(--sangre); }
+  .estado-viva   { color: var(--veneno); }
+
+  /* ── SEPARADOR INTERIOR ── */
+  hr.thin {
+    border: none;
+    border-top: 1px solid var(--plomo);
+    margin: 1.4rem 0;
+  }
+
+  /* ── PIE ── */
+  footer {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    color: var(--acero);
+    border-top: 1px solid var(--plomo);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Casa Lafret · Westeros</p>
+  <h1>Elys Lafret</h1>
+  <p class="subtitulo">Lord de Casa Lafret</p>
+  <div class="divider"></div>
+</header>
+
+<div class="lema-banda">
+  «La serpiente muerde pequeño. Come en grande.»
+</div>
+
+<main>
+
+  <!-- IDENTIDAD -->
+  <div class="bloque">
+    <p class="bloque-titulo">Identidad & Apariencia</p>
+    <div class="datos-grid">
+      <div class="dato">
+        <span class="dato-label">Nombre completo</span>
+        <span class="dato-valor">Elys Lafret</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Título</span>
+        <span class="dato-valor">Lord de Casa Lafret</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Edad aproximada</span>
+        <span class="dato-valor">22 años</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Estatura</span>
+        <span class="dato-valor">1,76 m</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Complexión</span>
+        <span class="dato-valor">Esbelta, casi frágil a la vista</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Cabello</span>
+        <span class="dato-valor">Blanco-plateado, largo; liso arriba y ondulado/rizado en las puntas</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Ojos</span>
+        <span class="dato-valor">Azul pálido con un tono lila</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Tez</span>
+        <span class="dato-valor">Muy blanca, sin marcas visibles</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Rasgos</span>
+        <span class="dato-valor">Facciones delicadas, mandíbula suave, nariz fina</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Voz</span>
+        <span class="dato-valor">Mezzo, ambigua, modulada a voluntad</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Oficio</span>
+        <span class="dato-valor">Herrero y diseñador de armas, armaduras y ropa</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Frío</span>
+        <span class="dato-valor">Casi no lo siente — «hijo del invierno» en Invernalia</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      De lejos, y a veces de cerca, Elys Lafret parece una mujer. No por artificio ni por debilidad — simplemente así es. El cabello plateado cae largo, liso arriba y ondulado en las puntas. Los pómulos son altos, la mandíbula apenas marcada, los labios finos pero definidos. Mide lo suficiente para no ser pequeño, pero el cuerpo nunca desarrolló la anchura ni el peso que el mundo espera de un lord.
+    </p>
+    <p>
+      Usa eso. Lo ha usado desde niño.
+    </p>
+    <p>
+      Viste indistintamente según la ocasión o el humor: ropas de lord cuando conviene proyectar autoridad, vestidos cuando conviene desaparecer o descolocar. Bajo cualquier prenda hay entre tres y siete filos escondidos en lugares que aprendió a encontrar antes de aprender a leer balances comerciales.
+    </p>
+  </div>
+
+  <!-- CASA LAFRET -->
+  <div class="bloque">
+    <p class="bloque-titulo">Casa Lafret — Historia & Posición</p>
+    <p>
+      Casa Lafret no existía antes de la Rebelión de Robert: el apellido lo concedió Robert Baratheon a Bertyn, el padre, en 283 DC. No tiene siglos de blasón ni cantos de bardo. Nació del caos: cuando los ejércitos necesitaban acero y nadie preguntaba de dónde venía, los Lafret estaban ahí para venderlo. Armaduras, espadas, lanzas — todo con sello propio, calidad documentada, precio justo o no tan justo según la urgencia del comprador.
+    </p>
+    <p>
+      El comercio de armas es la cara visible. Lo que la casa no anuncia, pero tampoco niega entre gente que sabe preguntar, es la otra especialidad: venenos. No el tipo burdo que mata en minutos y señala culpable. El tipo que tarda semanas. El tipo que parece enfermedad. El tipo que un maestre honesto nunca identificaría sin saber qué buscar.
+    </p>
+    <p>
+      Su sede es la Madriguera del Conejo, a seis días a caballo con mucha prisa de Desembarco del Rey, en el límite del Dominio (jurisdicción Tyrell). En Westeros vende acero a cara descubierta, con sello — Tywin Lannister compró espadas para su guardia personal —; en Essos, sin sello y por revendedores de puertos; los venenos solo a las Ciudades Libres, por intermediarios. No hace negocios directos con la Compañía Dorada, y el Banco de Hierro les debe a ellos.
+    </p>
+    <p>
+      Casa Lafret no tiene asiento en ningún consejo. No tiene tierras extensas ni ejércitos propios más allá de su guardia y sus caballeros huérfanos. Tiene algo que las casas viejas desprecian y luego necesitan: <em>dinero, discreción y memoria larga.</em>
+    </p>
+  </div>
+
+  <!-- HERMANOS -->
+  <div class="bloque">
+    <p class="bloque-titulo">Los Hermanos Lafret — Lo que quedó</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Posición</th>
+          <th>Estado</th>
+          <th>Nota</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Yles</td>
+          <td>Hermano mayor</td>
+          <td class="estado-muerto">Muerto</td>
+          <td>Muerto a manos de Elys, en un callejón, en defensa propia: Yles intentó matarlo.</td>
+        </tr>
+        <tr>
+          <td>Yildes</td>
+          <td>Segundo hermano</td>
+          <td class="estado-muerto">Muerto</td>
+          <td>Engañó a unos mercenarios para que se unieran a él. Tras la muerte de los otros dos huyó; lo mataron a golpes y lo tiraron a una zanja.</td>
+        </tr>
+        <tr>
+          <td><strong>Elys Lafret</strong></td>
+          <td>Hermano del medio</td>
+          <td class="estado-viva">Lord — vivo</td>
+          <td>El que nadie vigilaba. El que ganó.</td>
+        </tr>
+        <tr>
+          <td>Delyis</td>
+          <td>Cuarto hermano</td>
+          <td class="estado-muerto">Muerto</td>
+          <td>Sobredosis de vino y hierbas exóticas con una prostituta. Elys se culpa por no apartarlo de ese camino.</td>
+        </tr>
+        <tr>
+          <td>Veyra</td>
+          <td>Hermana menor</td>
+          <td class="estado-viva">Viva — rendida</td>
+          <td>La única que tuvo la inteligencia de arrodillarse. Elys la dejó vivir. Tiene sus razones.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr class="thin">
+
+    <div class="cita">
+      Elys enterró a los tres. La versión pública habla de «vicios»; solo Ned conoce la verdad, por las cartas de Elys.
+    </div>
+  </div>
+
+  <!-- PERSONALIDAD -->
+  <div class="bloque">
+    <p class="bloque-titulo">Carácter & Psicología</p>
+
+    <ul class="rasgos">
+      <li>Arrogante — con fundamento</li>
+      <li>Cínico por construcción</li>
+      <li>Lujurioso sin disimulo</li>
+      <li>Leal solo hacia Aldric — y en menor medida, hacia Veyra</li>
+      <li>Paciente hasta ser cruel</li>
+      <li>Calculador, nunca impulsivo</li>
+      <li>Incapaz de confiar fácil</li>
+      <li>Brutalmente honesto consigo</li>
+    </ul>
+
+    <hr class="thin">
+
+    <p>
+      Elys sabe que es arrogante. Lo admite antes de que alguien se lo señale, lo cual le quita al insulto todo su filo. Usa el cinismo de la misma manera: una armadura construida de ironía para que nadie vea con claridad dónde están las grietas. Y hay grietas. Las conoce mejor que nadie.
+    </p>
+    <p>
+      Su inteligencia es real y no modesta. En su propia evaluación, solo Tywin Lannister y Tyrion Lannister lo superan, y no por mucho. En la de los demás, Elys es difícil de clasificar: demasiado raro para tomarlo en serio, demasiado preciso para ignorarlo cuando ya es tarde.
+    </p>
+    <p>
+      No tiene escrúpulos visibles respecto al deseo. Hombres, mujeres, ambos — según el día, según la persona, según lo que quiera obtener o simplemente sentir. No romantiza ninguna de esas interacciones más de lo que romanticen a él.
+    </p>
+    <p>
+      La única excepción genuina a su frialdad calculada tiene 1,90 metros, no habla y lleva el nombre que Elys le dio el día que lo eligió.
+    </p>
+  </div>
+
+  <!-- ALDRIC -->
+  <div class="bloque">
+    <p class="bloque-titulo">Aldric — El Caballero Sin Nombre</p>
+    <div class="datos-grid">
+      <div class="dato">
+        <span class="dato-label">Nombre dado</span>
+        <span class="dato-valor">Aldric (por Elys, a los 7 años)</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Origen</span>
+        <span class="dato-valor">Huérfano sin nombre, mudo de nacimiento</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Estatura actual</span>
+        <span class="dato-valor">1,90 m</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Función</span>
+        <span class="dato-valor">Caballero personal — amigo de facto</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Cuando Elys tenía siete años (283 DC), en un breve viaje al sur tras la guerra, llegó el momento de elegir su huérfano y escogió al que nadie hubiera elegido: pequeño, escuálido, mudo, sin nombre. Los otros hermanos eligieron por tamaño, por potencial visible, por vanidad.
+    </p>
+    <p>
+      Elys lo eligió porque pesaba poco y porque lo recordaba a sí mismo cuando nadie lo miraba.
+    </p>
+    <p>
+      Lo llamó Aldric. Le enseñó a leer — con papel y carbón, un alfabeto de gestos propios que solo ellos conocen. Lo trató como persona cuando el resto de la casa trataba a sus caballeros-huérfanos como inversión o como mueble. Aldric creció hasta los 1,90 metros y una habilidad en combate que ningún hermano Lafret alcanzó jamás. Volvieron juntos a Invernalia, donde creció junto a Elys y Ser Rodrik lo entrenó.
+    </p>
+    <p>
+      Elys no lo llama amigo en voz alta. Pero es la única persona a la que no miente, aunque sea por omisión.
+    </p>
+  </div>
+
+  <!-- ARMAS Y HÁBITOS -->
+  <div class="bloque">
+    <p class="bloque-titulo">Armas, Monturas & Hábitos</p>
+
+    <p><strong>Colmillo de la Tormenta.</strong> Espada oficial de la casa, de acero valyrio: hoja gris casi negra con ondas profundas, empuñadura de serpiente negra con ojos de rubí. Bertyn la compró hacia el 283 en un barco, en Essos, donde iba escondida entre un cargamento de espadas de chatarra; le cambió la empuñadura y el nombre. No aparece en ninguna lista conocida.</p>
+    <p><strong>La espada negra y las otras cuatro.</strong> Elys tiene cinco espadas que no vende. La negra está forjada con una técnica de «humo» que solo él conoce; el vapor intoxica a quien lo respira.</p>
+
+    <hr class="thin">
+
+    <p><strong>Yunke y Martillo.</strong> Yunke, su yegua de tiro Shire, negra con lucero y cernejas blancas. Martillo, el semental Brabante gris azulado de Aldric. Elys se los compró a Khal Drogo, con quien pasó una noche entera hablando; la versión pública es «a un esclavista».</p>
+
+    <hr class="thin">
+
+    <p><strong>Hábitos.</strong> Bebe vino a cualquier hora. Se truena el cuello cuando va a hacer algo que no debe (su madre lo odiaba). Diseña y cose su propia ropa; aprendió con Catelyn. Esgrima con Ned Stark; letras, cuentas, metales y plantas con el maestre Luwin.</p>
+    <p><strong>Frase personal.</strong> <em>«El acero se vende. El veneno se guarda. La verdad nunca se ofrece gratis.»</em></p>
+  </div>
+
+  <!-- HABILIDADES -->
+  <div class="bloque">
+    <p class="bloque-titulo">Habilidades & Recursos</p>
+
+    <p><strong>Los cuchillos bajo el vestido.</strong> Desde pequeño descubrió que las faldas tienen pliegues, y los pliegues tienen espacio. Lleva entre tres y siete filos según la ocasión, guardados en fundas cosidas a la ropa interior o sujetos al muslo y el antebrazo. No es el mejor espadachín de Westeros — lo sabe. Pero nadie que lo subestime por su apariencia sobrevive lo suficiente para corregir el error.</p>
+
+    <hr class="thin">
+
+    <p><strong>El negocio de la luz.</strong> Casa Lafret vende acero. Buen acero, documentado, con contratos que cualquier maestre puede leer. Espadas, armaduras, puntas de flecha, herraduras de guerra. La reputación es limpia. Los clientes son reales.</p>
+
+    <hr class="thin">
+
+    <p><strong>El negocio de la sombra.</strong> Los venenos de Casa Lafret no se anuncian. Se saben. Elys los introdujo y pone el conocimiento técnico; Veyra dirige el negocio y arregla las fugas. Los que necesitan saber, saben preguntar. Los que no saben cómo preguntar no merecen la respuesta. El catálogo incluye desde somníferos y neutralizantes hasta cosas para las que no hay nombre polite en la lengua común.</p>
+
+    <hr class="thin">
+
+    <p><strong>La mente.</strong> Elys procesa con una velocidad que incomoda. No solo el tablero político inmediato — las implicaciones de segundo y tercer orden, los intereses contradictorios de cada actor, lo que alguien quiere que él crea versus lo que realmente mueve a esa persona. Si Tywin Lannister tiene más experiencia y Tyrion más cultura clásica, Elys tiene algo que ninguno de los dos puede comprar: la perspectiva de quien nunca fue tomado en serio hasta que fue demasiado tarde.</p>
+  </div>
+
+  <!-- NOTAS DE SIMULACIÓN -->
+  <div class="bloque">
+    <p class="bloque-titulo">Notas para la Simulación</p>
+
+    <p><strong>Cómo reacciona a los extraños:</strong> Amable en superficie, evaluando en todo momento. Usa la ambigüedad de su apariencia deliberadamente — deja que el interlocutor decida qué ve, y esa decisión le dice todo lo que necesita saber sobre esa persona.</p>
+
+    <p><strong>Cómo reacciona al desprecio:</strong> Con cortesía letal. No se ofende visiblemente. Anota. Espera. La respuesta llega semanas después, cuando el ofensor ya no recuerda el insulto.</p>
+
+    <p><strong>Cómo reacciona al deseo:</strong> Con honestidad directa y sin dramatismo. No seduce por poder — o no solo. Genuinamente disfruta. Pero tampoco confunde el placer con la confianza.</p>
+
+    <p><strong>Lo que nunca hace:</strong> Matar sin razón. Mentirle a Aldric. Subestimar a alguien que ya le demostró que no debe.</p>
+
+    <p><strong>Su mayor defecto real:</strong> Detrás del cinismo calculado hay alguien que aprendió muy temprano que el afecto sin utilidad es una vulnerabilidad. Sigue sin saber del todo si eso es cierto o si es la historia que se cuenta para no examinarlo.</p>
+  </div>
+
+</main>
+
+<footer>
+  Casa Lafret · «La serpiente muerde pequeño. Come en grande.» · Ficha de personaje — Juego de Tronos
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aldric — Caballero de Casa Lafret</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+  :root {
+    --negro:    #09090b;
+    --carbon:   #111115;
+    --plomo:    #1a1a22;
+    --acero:    #4a5060;
+    --acero2:   #2e3340;
+    --plata:    #c2c8d4;
+    --plata2:   #7a8090;
+    --blanco:   #ecedf1;
+    --rojo:     #7a1f1f;
+    --rojo2:    #4d1414;
+    --oxido:    #8b4513;
+    --veneno:   #3a6b48;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--negro);
+    color: var(--blanco);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.75;
+  }
+
+  /* ── CABECERA ── */
+  header {
+    background: var(--carbon);
+    border-bottom: 1px solid var(--acero2);
+    padding: 3rem 2rem 2.2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% -20%, rgba(74,80,96,0.25) 0%, transparent 65%);
+    pointer-events: none;
+  }
+
+  .eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 0.70rem;
+    letter-spacing: 0.38em;
+    color: var(--acero);
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(2.8rem, 7vw, 4.5rem);
+    font-weight: 900;
+    color: var(--plata);
+    letter-spacing: 0.06em;
+    line-height: 1.05;
+  }
+
+  .subtitulo {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--plata2);
+    margin-top: 0.5rem;
+  }
+
+  .divider {
+    width: 100px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--acero), transparent);
+    margin: 1.6rem auto 0;
+  }
+
+  /* ── BANDA SILENCIO ── */
+  .banda-silencio {
+    background: var(--acero2);
+    border-top: 1px solid var(--acero);
+    border-bottom: 1px solid var(--acero);
+    padding: 0.7rem 2rem;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.28em;
+    color: var(--plata2);
+    font-style: italic;
+  }
+
+  /* ── MAIN ── */
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+    display: grid;
+    gap: 2.5rem;
+  }
+
+  /* ── BLOQUE ── */
+  .bloque {
+    background: var(--carbon);
+    border: 1px solid var(--plomo);
+    border-left: 3px solid var(--acero);
+    padding: 1.8rem 2rem;
+  }
+
+  .bloque.rojo {
+    border-left-color: var(--rojo);
+  }
+
+  .bloque-titulo {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--acero);
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--plomo);
+  }
+
+  .bloque.rojo .bloque-titulo {
+    color: var(--rojo);
+  }
+
+  /* ── GRID DATOS ── */
+  .datos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 1.2rem 2rem;
+  }
+
+  .dato { display: flex; flex-direction: column; gap: 0.15rem; }
+
+  .dato-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--plata2);
+  }
+
+  .dato-valor {
+    font-size: 1rem;
+    color: var(--blanco);
+  }
+
+  /* ── PÁRRAFOS ── */
+  .bloque p {
+    color: var(--plata);
+    margin-bottom: 0.9rem;
+  }
+  .bloque p:last-child { margin-bottom: 0; }
+
+  em { color: var(--plata2); font-style: italic; }
+  strong { color: var(--blanco); }
+
+  hr.thin {
+    border: none;
+    border-top: 1px solid var(--plomo);
+    margin: 1.4rem 0;
+  }
+
+  /* ── CITA ── */
+  .cita {
+    background: var(--plomo);
+    border-left: 3px solid var(--acero);
+    padding: 1.1rem 1.5rem;
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--plata);
+    margin: 1rem 0;
+  }
+
+  /* ── BARRA DE HABILIDAD ── */
+  .habilidades-lista {
+    display: grid;
+    gap: 0.9rem;
+  }
+
+  .hab {
+    display: grid;
+    grid-template-columns: 160px 1fr auto;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: 0.92rem;
+  }
+
+  .hab-nombre {
+    font-family: 'Cinzel', serif;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--plata2);
+  }
+
+  .barra-fondo {
+    height: 4px;
+    background: var(--plomo);
+    position: relative;
+  }
+
+  .barra-fill {
+    height: 100%;
+    background: var(--acero);
+    position: relative;
+  }
+
+  .barra-fill.max {
+    background: linear-gradient(90deg, var(--acero), var(--plata));
+  }
+
+  .hab-nivel {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    color: var(--plata2);
+    letter-spacing: 0.1em;
+    white-space: nowrap;
+  }
+
+  /* ── COMUNICACIÓN ── */
+  .gesto-lista {
+    list-style: none;
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .gesto-lista li {
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    gap: 0.6rem;
+    align-items: baseline;
+    font-size: 0.95rem;
+    color: var(--plata);
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--plomo);
+  }
+
+  .gesto-lista li:last-child { border-bottom: none; }
+
+  .gesto-icono {
+    color: var(--acero);
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+
+  /* ── HACHA ── */
+  .hacha-bloque {
+    background: var(--plomo);
+    border: 1px solid var(--acero2);
+    padding: 1.2rem 1.5rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    align-items: start;
+  }
+
+  .hacha-glifo {
+    font-size: 2.8rem;
+    line-height: 1;
+    color: var(--acero);
+  }
+
+  .hacha-texto p {
+    margin-bottom: 0.6rem;
+    font-size: 0.95rem;
+  }
+
+  .hacha-texto p:last-child { margin-bottom: 0; }
+
+  /* ── PIE ── */
+  footer {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.25em;
+    color: var(--acero2);
+    border-top: 1px solid var(--plomo);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Caballero de Casa Lafret · Sin linaje · Sin voz</p>
+  <h1>Aldric</h1>
+  <p class="subtitulo">El Mudo · Sombra de Elys Lafret</p>
+  <div class="divider"></div>
+</header>
+
+<div class="banda-silencio">
+  Sin apellido. Sin voz. Sin deuda pendiente con el mundo.
+</div>
+
+<main>
+
+  <!-- IDENTIDAD -->
+  <div class="bloque">
+    <p class="bloque-titulo">Identidad & Apariencia</p>
+    <div class="datos-grid">
+      <div class="dato">
+        <span class="dato-label">Nombre</span>
+        <span class="dato-valor">Aldric (dado por Elys)</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Apellido</span>
+        <span class="dato-valor">Ninguno</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Origen</span>
+        <span class="dato-valor">Huérfano sin historia conocida</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Edad aproximada</span>
+        <span class="dato-valor">21 años (nació ~277); aparenta ~25</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Estatura</span>
+        <span class="dato-valor">1,90 m</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Complexión</span>
+        <span class="dato-valor">Atlética — músculo largo, sin volumen excesivo</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Voz</span>
+        <span class="dato-valor">Ninguna. Mudo de nacimiento.</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Arma característica</span>
+        <span class="dato-valor">Hacha de guerra — siempre en la espalda</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Armadura</span>
+        <span class="dato-valor">Placas completas, yelmo cerrado con visera en ranura, bufanda oscura al cuello</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Rostro</span>
+        <span class="dato-valor">Ancho y duro, pelo oscuro rapado, cicatriz blanca que parte la ceja izquierda, nariz rota, ojos grises muy claros</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Cuello</span>
+        <span class="dato-valor">Sin ninguna cicatriz</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Aldric no es el tipo de hombre que llena una habitación con ruido. La llena de otra manera: con el simple hecho de estar ahí, de pie, quieto, mirando. Un metro noventa de músculo construido durante quince años de entrenamiento diario, sin un gramo de ostentación. No es corpulento en el sentido de Gregor Clegane — no hay nada de tonel en él. Es el tipo de cuerpo que un herrero o un escalador de montaña podría tener si se dedicara únicamente a eso durante toda su vida. Cada parte trabaja. Nada sobra.
+    </p>
+    <p>
+      El hacha siempre está. No como ornamento, no como advertencia. Como parte de él, tan natural como el hombro del que cuelga. La gente aprende a no preguntar por ella.
+    </p>
+  </div>
+
+  <!-- ORIGEN -->
+  <div class="bloque">
+    <p class="bloque-titulo">Origen — Lo que se sabe y lo que no</p>
+
+    <p>
+      Nadie sabe de dónde vino Aldric. Eso incluye a Aldric. Llegó al sistema de huérfanos de Casa Lafret como llegan todos: sin historia, sin nombre, sin quien lo reclamara. Era pequeño para su edad, delgado hasta el punto de parecer frágil, y mudo — no por trauma sino de nacimiento, una laringe que nunca formó lo que necesitaba para producir voz.
+    </p>
+    <p>
+      El día que los hijos Lafret eligieron a sus caballeros, todos los niños con algún potencial visible fueron escogidos rápido. Aldric fue el último en el patio. Elys, que tenía siete años — era 283 DC y estaba de viaje breve en el sur tras la guerra — y que ya entonces miraba diferente a como miraban los demás, lo señaló.
+    </p>
+    <div class="cita">
+      Nadie entendió por qué. Aldric tampoco. Pero no lo preguntó — no podía — y cuando comprendió que la pregunta ya no importaba, dejó de hacérsela.
+    </div>
+
+    <p>
+      Lo que siguió fueron quince años de entrenamiento, lealtad y una amistad que ninguno de los dos nombra como tal en voz alta, principalmente porque uno de ellos no tiene voz.
+    </p>
+    <p>
+      Volvieron juntos a Invernalia, donde Aldric creció junto a Elys. Ser Rodrik lo entrenó; Robb, Jon, Theon, el maestre Luwin, Hodor y la Vieja Tata lo conocen. Más tarde, en el viaje a Essos de 293–295, un caballero errante lo armó caballero.
+    </p>
+  </div>
+
+  <!-- PSICOLOGÍA -->
+  <div class="bloque rojo">
+    <p class="bloque-titulo">Carácter & Psicología</p>
+
+    <p>
+      Aldric entiende con una claridad poco habitual que tuvo suerte. No la suerte de nacer en una cuna buena — esa le fue negada antes de que pudiera desearla. La suerte específica de haber sido elegido por la persona correcta en el momento correcto. Esa conciencia no lo hace humilde en el sentido servil. Lo hace <em>lúcido</em>.
+    </p>
+    <p>
+      Sabe lo que es: un arma. La diferencia entre él y otras armas de Westeros es que lo sabe, lo acepta, y no tiene ningún conflicto al respecto. Un cuchillo no llora por ser cuchillo. Aldric no pierde el sueño por ser lo que es. Se entrena, protege, obedece cuando corresponde, y toma decisiones propias cuando Elys no está o cuando algo amenaza a la única persona que cuenta.
+    </p>
+    <p>
+      No es simple. La ausencia de voz no es ausencia de pensamiento — Aldric observa con una atención que la mayoría de la gente nunca desarrolla porque hablar les ocupa demasiado espacio mental. Lee personas. Lee habitaciones. Lee intenciones. Rara vez se equivoca.
+    </p>
+    <p>
+      No necesita muchas cosas para estar bien: trabajo, propósito, y que Elys Lafret siga vivo y en un radio razonable. El resto del mundo puede arreglárselas solo.
+    </p>
+
+    <hr class="thin">
+
+    <p><strong>Lo que no le genera conflicto:</strong> matar, obedecer, esperar, ser ignorado por extraños, que lo confundan con guardia decorativo. Todo eso es ruido.</p>
+    <p><strong>Lo único que le generaría conflicto real:</strong> que alguien dañara a Elys. No ha habido ocasión de medir exactamente hasta dónde llegaría en ese caso. Nadie ha querido averiguarlo dos veces.</p>
+  </div>
+
+  <!-- HABILIDADES -->
+  <div class="bloque">
+    <p class="bloque-titulo">Capacidades de Combate</p>
+
+    <div class="habilidades-lista">
+      <div class="hab">
+        <span class="hab-nombre">Hacha de guerra</span>
+        <div class="barra-fondo"><div class="barra-fill max" style="width:97%"></div></div>
+        <span class="hab-nivel">Excepcional</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Combate sin armas</span>
+        <div class="barra-fondo"><div class="barra-fill max" style="width:93%"></div></div>
+        <span class="hab-nivel">Excepcional</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Armas cortas</span>
+        <div class="barra-fondo"><div class="barra-fill" style="width:82%"></div></div>
+        <span class="hab-nivel">Muy alto</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Espada larga</span>
+        <div class="barra-fondo"><div class="barra-fill" style="width:75%"></div></div>
+        <span class="hab-nivel">Alto</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Resistencia física</span>
+        <div class="barra-fondo"><div class="barra-fill max" style="width:98%"></div></div>
+        <span class="hab-nivel">Excepcional</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Lectura táctica</span>
+        <div class="barra-fondo"><div class="barra-fill" style="width:88%"></div></div>
+        <span class="hab-nivel">Muy alto</span>
+      </div>
+      <div class="hab">
+        <span class="hab-nombre">Sigilo / Posicionamiento</span>
+        <div class="barra-fondo"><div class="barra-fill" style="width:80%"></div></div>
+        <span class="hab-nivel">Alto</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Aldric no pelea con elegancia. Pelea con eficiencia. Cada movimiento existe porque funciona, no porque se vea bien. Con el hacha en la espalda y espacio suficiente es un problema que la mayoría de soldados con entrenamiento estándar no están equipados para resolver. Sin armas es peor para el oponente, no mejor — quince años de práctica diaria en cuerpo a cuerpo han producido algo que en Westeros no tiene nombre elegante pero que los que lo han visto saben reconocer.
+    </p>
+    <p>
+      Su ventaja real no es solo la fuerza ni la técnica. Es que no se pone nervioso. El silencio que lo define en lo social es el mismo silencio que tiene en el combate. No grita, no amenaza, no duda. Aparece, evalúa, actúa.
+    </p>
+    <p>
+      <strong>Sabe coser heridas.</strong> Lleva aguja e hilo «por si acaso» desde niño. La última vez cosió a Elys a los 12 años, tras una pelea.
+    </p>
+  </div>
+
+  <!-- EL HACHA -->
+  <div class="bloque rojo">
+    <p class="bloque-titulo">El Hacha</p>
+
+    <div class="hacha-bloque">
+      <div class="hacha-glifo">⚔</div>
+      <div class="hacha-texto">
+        <p>No tiene nombre. No tiene historia grabada en la hoja ni runas ni encargo especial. Es un hacha de guerra funcional, bien equilibrada, mantenida con una regularidad que bordea lo ritual.</p>
+        <p>Aldric la afila todas las noches. No porque vaya a usarla necesariamente al día siguiente — sino porque es lo que hace. El sonido de la piedra contra el acero es, para quienes conviven con él, tan parte del ambiente nocturno de Casa Lafret como el viento o el fuego.</p>
+        <p>Siempre en la espalda. En la mesa, en la cama, en el baño si puede evitarlo. La única vez que alguien intentó quitársela como prueba de confianza, la situación se resolvió de una manera que nadie documentó formalmente pero que todo el mundo en la casa recuerda.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- COMUNICACIÓN -->
+  <div class="bloque">
+    <p class="bloque-titulo">Comunicación — El Lenguaje Sin Voz</p>
+
+    <p>
+      Elys le enseñó a leer y escribir con papel y carbón cuando tenían seis y siete años. Con el tiempo construyeron además un sistema de gestos propios — no lengua de signos formal, sino un código privado desarrollado entre dos personas que pasaron suficiente tiempo juntas para necesitarlo.
+    </p>
+
+    <ul class="gesto-lista">
+      <li><span class="gesto-icono">—</span>Con Elys: comunicación completa. Papel, gestos, expresión. Pueden tener conversaciones largas sin que nadie externo entienda nada.</li>
+      <li><span class="gesto-icono">—</span>Con el resto del mundo: gestos básicos, expresión facial, papel cuando el tiempo lo permite, y la presencia física como argumento final.</li>
+      <li><span class="gesto-icono">—</span>En situaciones urgentes: actúa. El análisis viene después si alguien quiere hacerlo.</li>
+      <li><span class="gesto-icono">—</span>Con personas que lo subestiman por ser mudo: los deja. La corrección llega sola.</li>
+    </ul>
+  </div>
+
+  <!-- RELACIÓN CON ELYS -->
+  <div class="bloque">
+    <p class="bloque-titulo">Aldric & Elys — La Única Constante</p>
+
+    <p>
+      No es devoción ciega. Aldric tiene criterio propio, y Elys lo sabe — es parte de por qué lo eligió. La lealtad no viene del deber ni del miedo ni de la deuda, aunque técnicamente la deuda existe y ambos son conscientes de ello. Viene de algo más simple y más difícil de nombrar: Elys Lafret fue la primera persona que lo trató como alguien en lugar de algo, y lo hizo cuando tenía siete años y ninguna razón calculada para hacerlo.
+    </p>
+    <p>
+      Aldric no idealiza a Elys. Conoce sus defectos con la precisión de quien ha estado en la misma habitación durante quince años. Sabe que es arrogante, que usa el cinismo como escudo, que el afecto genuino lo incomoda porque aprendió a verlo como vulnerabilidad. Sabe todo eso. Lo conoce mejor que nadie.
+    </p>
+    <div class="cita">
+      Y sigue ahí. No porque no pueda irse — podría. Sino porque no quiere.
+    </div>
+    <p>
+      En el único idioma que Aldric maneja sin limitación — la acción — eso lo dice todo.
+    </p>
+  </div>
+
+  <!-- NOTAS SIMULACIÓN -->
+  <div class="bloque">
+    <p class="bloque-titulo">Notas para la Simulación</p>
+
+    <p><strong>Cómo interactúa con el PJ:</strong> Reservado por defecto. No hostil — simplemente no ve razón para invertir en alguien desconocido. Si el PJ gana la confianza de Elys, Aldric lo trata con respeto funcional. Si el PJ amenaza a Elys, la conversación termina.</p>
+
+    <p><strong>Cómo comunica en escena:</strong> El simulador puede narrar sus gestos, expresiones y acciones. No tiene líneas de diálogo, pero sí tiene presencia, reacciones y decisiones claras que el simulador traduce en acción física o en la lectura que otros personajes hacen de él.</p>
+
+    <p><strong>Errores que comete:</strong> Subestima la política verbal — las palabras que no llevan acción detrás le parecen ruido, y a veces son trampa. En contextos puramente diplomáticos donde el poder se ejerce con discurso, Aldric es menos efectivo y lo sabe.</p>
+
+    <p><strong>Lo que nadie logra:</strong> Hacerlo hablar. Hacerlo soltar el hacha. Separarlo de Elys por más tiempo del estrictamente necesario.</p>
+
+    <p><strong>Su mayor consistencia:</strong> Es el mismo en público y en privado. No tiene máscara porque no necesita una. Lo que ves es lo que hay, y lo que hay es suficiente para que la mayoría de personas prefieran no averiguar dónde están los límites.</p>
+  </div>
+
+</main>
+
+<footer>
+  Aldric · Caballero de Casa Lafret · Sin voz. Sin deuda pendiente con el mundo.
+</footer>
+
+</body>
+</html>

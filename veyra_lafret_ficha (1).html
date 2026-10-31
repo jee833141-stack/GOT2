@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veyra Lafret — Casa Lafret</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+  :root {
+    --negro:    #09090b;
+    --carbon:   #111116;
+    --plomo:    #1c1c24;
+    --blanco:   #edeef2;
+    --plata:    #c4c9d6;
+    --plata2:   #7c8290;
+    --acero:    #4a5060;
+    --cobre:    #8a5c3a;
+    --cobre2:   #5c3a22;
+    --arena:    #c4a882;
+    --arena2:   #8a7255;
+    --veneno:   #3a6b48;
+    --sangre:   #6b1a1a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--negro);
+    color: var(--blanco);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.75;
+  }
+
+  header {
+    background: var(--carbon);
+    border-bottom: 1px solid var(--cobre2);
+    padding: 3rem 2rem 2.2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 0%, rgba(138,92,58,0.12) 0%, transparent 68%);
+    pointer-events: none;
+  }
+
+  .eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 0.70rem;
+    letter-spacing: 0.38em;
+    color: var(--cobre);
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(2.6rem, 6.5vw, 4.2rem);
+    font-weight: 900;
+    color: var(--arena);
+    letter-spacing: 0.05em;
+    line-height: 1.08;
+  }
+
+  .subtitulo {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--plata2);
+    margin-top: 0.5rem;
+  }
+
+  .divider {
+    width: 110px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--cobre), transparent);
+    margin: 1.6rem auto 0;
+  }
+
+  .banda {
+    background: var(--cobre2);
+    border-top: 1px solid var(--cobre);
+    border-bottom: 1px solid var(--cobre);
+    padding: 0.7rem 2rem;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.24em;
+    color: var(--arena);
+    font-style: italic;
+  }
+
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+    display: grid;
+    gap: 2.5rem;
+  }
+
+  .bloque {
+    background: var(--carbon);
+    border: 1px solid var(--plomo);
+    border-left: 3px solid var(--cobre);
+    padding: 1.8rem 2rem;
+  }
+
+  .bloque.acero { border-left-color: var(--acero); }
+  .bloque.arena { border-left-color: var(--arena2); }
+
+  .bloque-titulo {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--cobre);
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--plomo);
+  }
+
+  .bloque.acero .bloque-titulo { color: var(--acero); }
+  .bloque.arena .bloque-titulo { color: var(--arena2); }
+
+  .datos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 1.2rem 2rem;
+  }
+
+  .dato { display: flex; flex-direction: column; gap: 0.15rem; }
+
+  .dato-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--plata2);
+  }
+
+  .dato-valor { font-size: 1rem; color: var(--blanco); }
+
+  .bloque p { color: var(--plata); margin-bottom: 0.9rem; }
+  .bloque p:last-child { margin-bottom: 0; }
+
+  em { color: var(--plata2); font-style: italic; }
+  strong { color: var(--blanco); }
+
+  hr.thin {
+    border: none;
+    border-top: 1px solid var(--plomo);
+    margin: 1.4rem 0;
+  }
+
+  .cita {
+    background: var(--plomo);
+    border-left: 3px solid var(--cobre);
+    padding: 1.1rem 1.5rem;
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--plata);
+    margin: 1rem 0;
+  }
+
+  .cita.acero { border-left-color: var(--acero); }
+
+  /* ── DOS COLUMNAS COMPARATIVAS ── */
+  .duo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+
+  @media (max-width: 580px) { .duo { grid-template-columns: 1fr; } }
+
+  .duo-bloque {
+    background: var(--plomo);
+    border-top: 2px solid var(--cobre2);
+    padding: 1rem 1.2rem;
+  }
+
+  .duo-bloque.acero-top { border-top-color: var(--acero); }
+
+  .duo-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--cobre);
+    margin-bottom: 0.6rem;
+  }
+
+  .duo-bloque.acero-top .duo-label { color: var(--acero); }
+
+  .duo-bloque p {
+    font-size: 0.95rem;
+    color: var(--plata);
+    margin-bottom: 0;
+  }
+
+  /* ── LISTA SIMPLE ── */
+  .lista-simple {
+    list-style: none;
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .lista-simple li {
+    padding: 0.5rem 0.8rem;
+    background: var(--plomo);
+    border-left: 2px solid var(--cobre2);
+    font-size: 0.95rem;
+    color: var(--plata);
+  }
+
+  footer {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.25em;
+    color: var(--acero);
+    border-top: 1px solid var(--plomo);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Casa Lafret · La Hermana Menor · La que Sobrevivió</p>
+  <h1>Veyra Lafret</h1>
+  <p class="subtitulo">Dama de Casa Lafret</p>
+  <div class="divider"></div>
+</header>
+
+<div class="banda">
+  «Saber cuándo no pelear es la única victoria que nunca te pueden quitar.»
+</div>
+
+<main>
+
+  <!-- IDENTIDAD -->
+  <div class="bloque">
+    <p class="bloque-titulo">Identidad & Apariencia</p>
+    <div class="datos-grid">
+      <div class="dato">
+        <span class="dato-label">Nombre completo</span>
+        <span class="dato-valor">Veyra Lafret</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Título</span>
+        <span class="dato-valor">Dama de Casa Lafret</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Posición</span>
+        <span class="dato-valor">Hermana menor — rendida, viva</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Edad aproximada</span>
+        <span class="dato-valor">19 años</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Estatura</span>
+        <span class="dato-valor">1,68 m</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Complexión</span>
+        <span class="dato-valor">Media — curvas suaves, porte firme</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Cabello</span>
+        <span class="dato-valor">Castaño oscuro, del lado paterno — no heredó nada de la apariencia de Seyue</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Ojos</span>
+        <span class="dato-valor">Verde grisáceo claro, del lado paterno</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Tez</span>
+        <span class="dato-valor">Aceitunada cálida, mucho más color que Elys</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Rasgos</span>
+        <span class="dato-valor">Facciones definidas, cejas marcadas, pómulos altos, nariz recta, labios llenos, mandíbula más marcada que su hermano</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Veyra salió a su padre, no a su madre — Elys es el único de los hermanos con la apariencia de Seyue — y donde él parece esculpido en plata fría, ella tiene algo más terrenal. Más presente. La mandíbula es más firme, los hombros más anchos, el cuerpo construido para existir en el mundo sin necesitar que el mundo dude de qué es lo que ve.
+    </p>
+    <p>
+      No es tan ambigua como su hermano y no tiene ninguna razón para serlo. Viste bien, con criterio propio, sin el juego de capas y filos que Elys convirtió en arte. Lo suyo es otra cosa: la ropa de alguien que sabe que no necesita esconder nada porque lo que tiene a la vista ya es suficiente para manejarse.
+    </p>
+  </div>
+
+  <!-- CARÁCTER -->
+  <div class="bloque">
+    <p class="bloque-titulo">Carácter — La Inteligencia Tranquila</p>
+
+    <p>
+      Veyra entendió algo que sus hermanos muertos nunca entendieron: el apellido Lafret vale más que el título de Lord Lafret. Elys puede tener el asiento, la responsabilidad, el blanco en la espalda. Ella tiene el nombre, la red de contactos que ese nombre abre, y ninguna de las obligaciones que lo acompañan.
+    </p>
+    <p>
+      No es perezosa. Es precisa. Hay una diferencia enorme entre no querer trabajar y saber exactamente cuánto esfuerzo requiere cada cosa y no gastar un ápice más. Veyra nunca ha sobreextendido un recurso en su vida, y eso incluye su propia energía política.
+    </p>
+
+    <div class="cita">
+      Se arrodilló ante Elys no porque tuviera miedo — bueno, también porque tenía miedo, no es idiota — sino porque calculó el tablero y vio que era la única jugada con retorno positivo a largo plazo. Sus hermanos mayores pelearon por el trono de una casa comercial de segunda generación. Ella decidió vivir bien a su sombra. Años más tarde, la evaluación sigue siendo correcta.
+    </div>
+
+    <p>
+      Tiene sentido del humor seco que comparte selectivamente. Con Elys es más frecuente — son los únicos que sobrevivieron y eso crea una complicidad que no necesita nombrarse. Con extraños es cordial, amena, y completamente ilegible si no saben qué buscar.
+    </p>
+
+    <hr class="thin">
+
+    <ul class="lista-simple">
+      <li>Pragmática sin ser fría — distingue perfectamente entre lo que conviene y lo que disfruta</li>
+      <li>Socialmente hábil — lee una sala más rápido que la mayoría</li>
+      <li>Sin ambición de poder formal — y completamente sincera al respecto</li>
+      <li>Leal a Elys con la tranquilidad de quien eligió esa lealtad en vez de heredarla</li>
+      <li>Curiosa — colecciona información sin ninguna urgencia, porque nunca se sabe</li>
+      <li>Paciente hasta ser exasperante para quien la quiera presionar</li>
+    </ul>
+  </div>
+
+  <!-- RELACIÓN CON ELYS -->
+  <div class="bloque arena">
+    <p class="bloque-titulo">Veyra & Elys — Los Dos que Quedaron</p>
+
+    <div class="duo">
+      <div class="duo-bloque">
+        <p class="duo-label">Lo que él ve en ella</p>
+        <p>La única decisión inteligente que tomó alguien de su familia además de él mismo. La respeta genuinamente — no como concesión sino como evaluación honesta. Que se rindiera a tiempo dijo más de su cabeza que cualquier cosa que hicieran los tres que murieron peleando.</p>
+      </div>
+      <div class="duo-bloque acero-top">
+        <p class="duo-label">Lo que ella ve en él</p>
+        <p>A su hermano. Con todos sus defectos catalogados y sin necesidad de idealizarlo. Lo conoce lo suficiente para saber cuándo el cinismo es escudo y cuándo es genuino. Eso, en la familia Lafret, es un privilegio que solo ella tiene.</p>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Se llevan bien de una manera que sorprende a quienes saben la historia. No hay tensión enterrada ni resentimiento que fermenta — o si lo hay, Veyra lo procesó sola hace tiempo y llegó a la conclusión de que no vale el espacio mental. Comen juntos cuando coinciden. Se consultan cosas. Ella le dice verdades que nadie más se atreve a decirle y él las escucha, que es más de lo que hace con cualquier otro.
+    </p>
+    <p>
+      Aldric la trata con respeto funcional. Ella lo aprecia sin necesitar que sea más que eso.
+    </p>
+  </div>
+
+  <!-- MIRA — LA CABALLERO -->
+  <div class="bloque acero">
+    <p class="bloque-titulo">Mira — La Caballero Sin Pasado</p>
+
+    <div class="datos-grid">
+      <div class="dato">
+        <span class="dato-label">Nombre dado</span>
+        <span class="dato-valor">Mira (por Veyra)</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Origen</span>
+        <span class="dato-valor">Huérfana — sin historia recuperable</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Estatura</span>
+        <span class="dato-valor">1,72 m</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Complexión</span>
+        <span class="dato-valor">Delgada y fibrosa — velocidad sobre fuerza</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Cabello</span>
+        <span class="dato-valor">Oscuro, corto — funcional</span>
+      </div>
+      <div class="dato">
+        <span class="dato-label">Especialidad</span>
+        <span class="dato-valor">Armas cortas, movilidad, sigilo</span>
+      </div>
+    </div>
+
+    <hr class="thin">
+
+    <p>
+      Veyra la eligió por la misma razón que Elys eligió a Aldric — no por potencial evidente sino por algo más difícil de nombrar. Mira tenía ocho años, era la más callada del grupo de huérfanos disponibles, y cuando Veyra le preguntó su nombre, la niña respondió que no tenía ninguno que valiera la pena repetir.
+    </p>
+    <p>
+      Veyra le dio el nombre esa tarde. La lógica era simple: alguien con esa respuesta a esa edad o se rompe pronto o dura para siempre. Apostó por lo segundo.
+    </p>
+
+    <div class="cita acero">
+      Ganó la apuesta.
+    </div>
+
+    <p>
+      Mira creció rápida, fibrosa y silenciosa en el sentido opuesto al de Aldric — donde él ocupa espacio y presencia, ella lo evita. No es invisible, pero sabe estar donde no la buscan y aparecer donde no la esperan. Su especialidad son las armas cortas y la movilidad: en distancia larga pierde contra Aldric, en distancia corta y en espacios cerrados la diferencia se vuelve discutible.
+    </p>
+    <p>
+      Habla poco pero habla — tiene voz, la usa con criterio. Con Veyra la conversación es fluida dentro de su registro escueto. Con el resto del mundo mide cada palabra como si costara algo que no puede reembolsar.
+    </p>
+
+    <hr class="thin">
+
+    <p><strong>Su relación con Veyra</strong> tiene el mismo núcleo que la de Aldric con Elys — lealtad elegida, no impuesta — pero con una textura diferente. Veyra no necesita protección constante ni proyecta peligro permanente. Lo que necesita a veces es que alguien esté ahí sin pedir nada a cambio. Mira es buena en eso. Excepcionalmente buena.</p>
+
+    <p><strong>Su relación con Aldric</strong> es de respeto profesional y comunicación mínima eficiente. Se entienden sin necesitar vocabulario común. En los contados momentos en que han peleado en el mismo lado, funcionan bien. Ninguno de los dos ha necesitado decirlo.</p>
+  </div>
+
+  <!-- POSICIÓN EN LA CASA -->
+  <div class="bloque">
+    <p class="bloque-titulo">Posición en Casa Lafret — El Arte de No Gobernar</p>
+
+    <p>
+      Veyra no tiene título ejecutivo dentro de la casa. No lo quiere. Lo que tiene es algo más útil en la práctica: acceso total, ninguna responsabilidad formal, y la confianza de Elys para opinar cuando le parece que algo se está manejando mal.
+    </p>
+    <p>
+      Gestiona sus propias finanzas con el apellido Lafret como palanca — contratos sociales, relaciones con otras casas menores, ocasionalmente información que vale más que el acero que vende su hermano. Dirige el negocio de venenos de la casa — que Elys introdujo y del que pone el conocimiento técnico — y se encarga de arreglar las fugas: de información, de personas, de rastros. Lo hace sin escrúpulos y sin ruido, porque una fuga mal tapada cuesta más que el veneno.
+    </p>
+    <p>
+      Su red social es considerable y completamente suya. Elys tiene el poder político. Veyra tiene las cenas, los chismes que resultan ser verdad, y la lista de personas que le deben favores pequeños pero acumulados. En Westeros, eso no es poca cosa.
+    </p>
+    <p>
+      Hoy está en Braavos, operando sobre la deuda del Banco de Hierro, que les debe a los Lafret. Envenenar al consejo del Banco que se le oponía y controlarlo es un posible paso suyo, no un hecho consumado: lo decide la partida. Lo saben Elys, Veyra, Aldric y Mira.
+    </p>
+
+    <div class="cita">
+      «Elys puede tener la silla. Yo prefiero la ventana desde la que se ve todo sin que nadie te vea a ti.»
+    </div>
+  </div>
+
+  <!-- NOTAS SIMULACIÓN -->
+  <div class="bloque">
+    <p class="bloque-titulo">Notas para la Simulación</p>
+
+    <p><strong>Cómo interactúa con el PJ:</strong> Amable, curiosa, sin urgencia. Evalúa antes de invertir. Si el PJ llega a través de Elys, le da el beneficio de la duda inicial. Si llega por otro camino, el tiempo que tarda en mostrar interés genuino es proporcional a lo que el PJ demuestre que vale.</p>
+
+    <p><strong>Cómo usa la información:</strong> La acumula. Rara vez la vende o la weaponiza — prefiere tenerla como seguro. Pero si alguien amenaza lo que es suyo, la información que ha guardado sin aparente urgencia resulta ser exactamente la correcta.</p>
+
+    <p><strong>Lo que no hace:</strong> Meterse en conflictos que no son suyos. Pelear por principio cuando puede negociar por conveniencia. Pretender más de lo que es para impresionar a alguien que no vale el esfuerzo.</p>
+
+    <p><strong>Su mayor fortaleza discreta:</strong> Nadie la subestima de manera agresiva porque no proyecta amenaza. Pero tampoco la descartan, porque tiene el apellido correcto y la sonrisa de alguien que sabe algo que tú no sabes. Esa ambigüedad cómoda es su territorio natural.</p>
+
+    <p><strong>Mira en simulación:</strong> Presente cuando Veyra está en escena, siempre en un segundo plano funcional. Habla si se le habla directamente o si algo requiere su intervención. El simulador puede narrar su posicionamiento en la habitación — siempre cerca de la salida, siempre con línea de visión a Veyra — como detalle de ambiente.</p>
+  </div>
+
+</main>
+
+<footer>
+  Veyra Lafret · Casa Lafret · «Saber cuándo no pelear es la única victoria que nunca te pueden quitar.»
+</footer>
+
+</body>
+</html>
