@@ -43,10 +43,9 @@ Fechas relativas al **D0 = llegada de Robert a Invernalia** (como en F). Es una 
 | ~D−45 | Robert sale de Desembarco hacia el Norte con la corte |
 | ~D−40 | Aviso a la finca: el rey se desvía |
 | **~D−34** | **Robert y la comitiva llegan a la Madriguera. Arranca la simulación.** |
-| D−31 | Llega a Invernalia la carta de Lysa Arryn |
 | D−30 | Ejecución de Will; los cachorros. Ned recibe la carta de Robert |
 | D−29 | Catelyn escribe a Elys (solo si Elys sigue en la finca o ya viaja al Norte; la partida decide) |
-| **D0** | Robert llega a Invernalia con la corte |
+| **D0** | Robert llega a Invernalia con la corte. Esa noche llega la carta de Lysa Arryn acusando a los Lannister (como en la serie) |
 
 Si Robert se lleva a Bertyn y/o a Elys en la comitiva, viajan con ella y llegan a Invernalia en D0. Si no, el aviso de Catelyn los alcanza en el camino o en la finca.
 
@@ -77,7 +76,7 @@ Si Robert se lleva a Bertyn y/o a Elys en la comitiva, viajan con ella y llegan 
 
 Igual que en el Punto F (§8): Robert, Cersei, Joffrey, Myrcella, Tommen, Jaime, Tyrion, Lancel, Sandor Clegane, Meryn Trant, Boros Blount, Ilyn Payne, capas rojas y séquito. Ninguno tiene relación con Elys más allá de lo que cualquiera sabría de Casa Lafret. Barristan, Renly, Meñique, Varys y Pycelle se quedan en Desembarco.
 
-> **Nota de fuente:** Lancel, Boros Blount e Ilyn Payne no se confirmaron en la serie; se aceptan como decisión del jugador y mandan sobre la serie en esta partida.
+> **Nota de fuente:** Lancel está confirmado en la serie (escudero de Robert). Boros Blount e Ilyn Payne no se confirmaron en la serie; se aceptan como decisión del jugador y mandan sobre la serie en esta partida.
 
 ---
 

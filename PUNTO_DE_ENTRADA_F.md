@@ -26,7 +26,7 @@ Cuando Ned recibe la carta de Robert anunciando que el rey viene al Norte, Catel
 | Personaje | Sabe |
 |---|---|
 | **Elys** | Que Bertyn murió hace unas 4 semanas. Lo que dice la carta de Catelyn. Que el rey viene al Norte. Que Altojardín avisó a la Corona, y **cree que Robert ya lo sabe**. Que su padre escribía a Robert; **no sabe** que esas cartas nunca llegaron. **No sabe** si Benjen está en Invernalia. |
-| **Catelyn** | Que Jon Arryn murió, la carta de Lysa (acusa a los Lannister; no la repite por escrito a Elys), que el rey viene y que Ned será ofrecido como Mano. **No sabe** que Bertyn murió. No sabe si Elys vendrá. |
+| **Catelyn** | Que Jon Arryn murió, que el rey viene y que Ned será ofrecido como Mano. **No sabe** que Bertyn murió. No sabe si Elys vendrá. |
 | **Ned** | Que Jon Arryn murió y que el rey viene. **No sabe** que Catelyn escribió a Elys. **No sabe** que Bertyn murió. |
 | **Robert** | Planea pasar de regreso por la finca Lafret. **No sabe** que Bertyn murió ni ha recibido sus cartas. Cree que Bertyn lleva tiempo sin escribirle. |
 | **Palacio Real** | La carta de Altojardín llegó y fue archivada como irrelevante para el rey. Nadie en Palacio la ha vuelto a mirar. |
@@ -44,7 +44,6 @@ Todas las fechas son relativas al **Día 0 = llegada de Robert a Invernalia**. E
 | Día | Evento |
 |---|---|
 | ~D−60 | Muere Jon Arryn en Desembarco del Rey |
-| D−31 | Llega a Invernalia la carta de Lysa Arryn (a Luwin) acusando a los Lannister |
 | D−30 | Ejecución de Will; los Stark encuentran la loba muerta y los seis cachorros. Ned recibe la carta de Robert: viene al Norte |
 | D−29 | Catelyn escribe a Elys (cuervo a la finca) |
 | **D−28** | **Muere Bertyn en su fragua** (4 semanas antes) |
@@ -53,7 +52,7 @@ Todas las fechas son relativas al **Día 0 = llegada de Robert a Invernalia**. E
 | D−25 | Altojardín envía su carta a Palacio Real |
 | D−24 | La carta llega a Palacio y se archiva como irrelevante para el rey |
 | D−4 a D−3 | **Elys llega a Invernalia** (aprox. 22 días de viaje a ritmo duro; es largo, ver nota) |
-| **D0** | Robert llega a Invernalia con la corte |
+| **D0** | Robert llega a Invernalia con la corte. Esa noche llega la carta de Lysa Arryn acusando a los Lannister (como en la serie) |
 | Después | Criptas, Ned acepta la Mano, caída de Bran, etc., **según la partida** |
 
 **Nota de distancia:** la finca está a 6 días a caballo con mucha prisa de Desembarco. De ahí a Invernalia hay mucho más. 22 días obliga a ritmo duro y caballos de relevo; la escolta llega agotada. Si prefieres un viaje más lento, hay que adelantar la muerte de Bertyn o la salida de Elys (tocaría el canon, §1 y §10.3).
@@ -66,12 +65,13 @@ Todas las fechas son relativas al **Día 0 = llegada de Robert a Invernalia**. E
 - Will fue ejecutado por Ned.
 - Hay seis cachorros de huargo: Grey Wind (Robb), Ghost (Jon, albino), Lady (Sansa), Nymeria (Arya), Summer (Bran) y Shaggydog (Rickon). Llevan un mes en Invernalia.
 - Jon Arryn murió hace semanas.
-- Llegaron la carta de Lysa y la carta de Robert.
+- Llegó la carta de Robert.
 
 **No ha ocurrido:**
 - Robert y la comitiva no han llegado.
 - Ned no ha hablado con Robert en las criptas ni ha aceptado ser Mano.
 - Bran no ha caído de la torre ni ha habido intento de asesinato contra él.
+- No ha llegado la carta de Lysa Arryn (llega la noche de D0).
 - Catelyn no ha viajado al sur.
 - Jon no se ha ido al Muro, y Tyrion no ha ido al Muro con él.
 
@@ -145,9 +145,9 @@ Quién llega a Invernalia con el rey (D0). Ninguno de ellos tiene relación con 
 - **Guardias Lannister ("capas rojas"):** el grueso de la escolta armada, que responde principalmente a la reina.
 - **Sirvientes, doncellas y cortesanos:** la logística de un viaje de más de un mes y el mantenimiento de la gigantesca casa rodante de madera en la que viaja Cersei.
 
-**No viajan al Norte:** Barristan Selmy, Renly, Meñique, Varys y el Gran Maestre Pycelle se quedan en Desembarco del Rey (Barristan, Renly e Ilyn se suman a la comitiva más adelante, en el viaje de vuelta; la partida decide qué pasa con ellos).
+**No viajan al Norte:** Barristan Selmy, Renly, Meñique, Varys y el Gran Maestre Pycelle se quedan en Desembarco del Rey (Barristan y Renly se suman a la comitiva más adelante, en el viaje de vuelta; la partida decide qué pasa con ellos).
 
-> **Nota de fuente:** la lista la fija el jugador. Una búsqueda sobre la serie confirmó a Robert, Cersei, los tres hijos, Jaime, Tyrion, Sandor y Meryn. **Lancel, Boros Blount e Ilyn Payne** no se confirmaron en la serie con esa búsqueda (pueden venir de los libros); aquí se aceptan como decisión del jugador y mandan sobre la serie en esta partida.
+> **Nota de fuente:** la lista la fija el jugador. La serie confirma a Robert, Cersei, los tres hijos, Jaime, Tyrion, Sandor, Meryn y **Lancel** (escudero de Robert). **Boros Blount e Ilyn Payne** no se confirmaron en la serie con esa búsqueda (pueden venir de los libros); aquí se aceptan como decisión del jugador y mandan sobre la serie en esta partida.
 
 ---
 
