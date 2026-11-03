@@ -30,7 +30,7 @@
 | 285 / 287 / 288 / 292 | Nacen Sansa, Arya, Bran, Rickon |
 | 289 | Theon llega como pupilo (~10 años) |
 | **293** | Muere Seyue (fiebres). Elys (17) vuelve al sur tras ~12 años en el Norte |
-| 293–295 | Elys (17–19) viaja por Essos con Aldric (16–18), explorando. **En este viaje** conocen al caballero errante que arma caballero a Aldric, Elys salva al magistrado Frendin en Pentos y compra a Yunke y Martillo a Khal Drogo (que le pone "Cabello de Luna"). Bertyn está enfermo pero no tanto, y no nombra heredero |
+| 293–295 | Elys (17–19) viaja por Essos con Aldric (16–18), explorando. **En este viaje** conocen al caballero errante que arma caballero a Aldric, Elys salva al magistrado Frendin en Pentos y compra a Yunke y Martillo a Khal Drogo (que le pone "Cabello de Luna"), da caza a los esclavistas que raptaron a Seyue, salva en Pentos a una niña de pelo blanco (Daenerys; ver §10.10) y conoce a Oberyn Martell en Lys (ver §10.11). Bertyn está enfermo pero no tanto, y no nombra heredero |
 | **295** | Elys regresa. Bertyn, ya más enfermo, lo nombra **lord oficial** de Casa Lafret y los hermanos se levantan: empieza la guerra |
 | 295–297 | Guerra de sucesión entre hermanos |
 | 298 | Muere Bertyn **unas 3–4 semanas antes** de la llegada del rey a Invernalia (cambio de canon: ya no "hace un año"). **En el Punto G no ha muerto al arrancar** (ver jerarquía) |
@@ -107,7 +107,7 @@
   - **En las fraguas de verdad** (producción y almacenes, cerca del oeste y el norte, sin anunciar): los **otros 41 herreros** y los **otros 80 huérfanos**, que las trabajan y las guardan.
 - **Las fraguas de la Madriguera:** son fraguas de verdad, pero **casi siempre se encienden solo para echar humo** y aparentar actividad. Tienen **material** para aparentar y para **trabajar de verdad si llega visita**. La producción real no está ahí.
 - **Negocios:**
-  - **Westeros (a cara descubierta, con sello):** acero. **Tywin Lannister compró espadas para su guardia personal** y dijo que era "el mejor acero desde la guerra".
+  - **Westeros (a cara descubierta, con sello):** acero. **Tywin Lannister compró espadas para su guardia personal** y dijo que era "el mejor acero desde la guerra". **La única razón por la que los Lafret venden a los Lannister** es que así Elys obtiene información para **Oberyn Martell** (ver §10.11).
   - **Essos (sin sello):** armas al por mayor a **revendedores de puertos**, que compran con descuento y revenden a precio medio-alto.
   - **Venenos:** solo a las Ciudades Libres, mediante intermediarios. (Los introdujo Elys; no los hacía su padre.) **Los dirige Veyra**, que también se encarga de arreglar las fugas (información, personas, rastros).
   - **Compañía Dorada:** Elys **no hace negocios directos** con ella. Comerciantes compran al por mayor lo que salen de las fraguas de Elys, **sin sellos de la casa**, y lo venden en Essos; así llegan las armas a la Compañía.
@@ -155,7 +155,9 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Olenna Tyrell:** testigo de la boda de Bertyn y Seyue. Sabe más de lo que dice (§10.2).
 - **Tywin Lannister:** trató en persona con Elys por el encargo de espadas para su guardia. Buscó algo de qué quejarse, no lo encontró, y Elys le sacó más dinero. Lo recuerda.
 - **Jaime Lannister:** probó las espadas de Elys combatiendo contra él con una de práctica y lo tumbó tres veces sin esfuerzo, aunque Elys le acertó un golpe en el ojo. Lo recuerda.
-- **Los demás** (Cersei, Tyrion, Joffrey, el Perro, Renly, Barristan, Varys, Meñique, Tywin, Daenerys, Jorah): **no tienen ninguna relación con Elys** y no saben quién es más allá de lo que cualquiera sabría de Casa Lafret (casa nueva de armeros, apellido concedido por Robert).
+- **Oberyn Martell:** amigo y amante ocasional desde Lys. Elys le pasa información (ver §10.11).
+- **Daenerys:** Elys la salvó de niña en Pentos, pero ninguno de los dos sabe quién era el otro (ver §10.10).
+- **Los demás** (Cersei, Tyrion, Joffrey, el Perro, Renly, Barristan, Varys, Meñique, Jorah): **no tienen ninguna relación con Elys** y no saben quién es más allá de lo que cualquiera sabría de Casa Lafret (casa nueva de armeros, apellido concedido por Robert).
 
 ---
 
@@ -171,6 +173,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Libro de sangre de Daenerys** (salió de Rocadragón), sobre esa rama: *"Se fueron hacia el frío. Y el frío no los quiso matar. Que no se escriban sus nombres, para que el fuego no los encuentre."*
 - **La nana de Seyue** (alto valyrio antiguo; la cantaba a Sansa y a Elys): *"Duerme, luna mía. El frío es tu manta. El fuego no sabe tu nombre. Nadie te encontrará."* **La melodía es la misma que Viserys tarareaba a Daenerys.**
 - **Bertyn lo adivinó** (o lo sospechó) y se negó a contarlo.
+- **Los esclavistas:** durante el viaje por Essos (293–295), Elys dio caza a los esclavistas que raptaron a Seyue. Por ellos sabe de dónde salió su madre (Leng y el barco del rapto), no su linaje.
 - **Quién lo sabe al arrancar:** nadie con certeza. Bertyn lo sospechaba y se niega a contarlo (muerto en el Punto F; vivo en el G); Elys intuye algo que prefiere "olvidar". Daenerys tiene el libro de sangre pero no conoce a Elys.
 
 ### 10.2 La boda de Bertyn y Seyue (versión verdadera)
@@ -225,3 +228,14 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Colmillo de la Tormenta** (valyria) **sí destruye a un Caminante Blanco:** clavada en el pecho, el Caminante estalla.
 - **El Banco de Hierro es de los Lafret.** **Veyra envenenó al consejo del Banco que se le oponía** y lo controla. Fecha sin fijar. Al arrancar en 298 vale que *"el Banco les debe a ellos"* (§5) y esto es un posible paso de Veyra, no un hecho consumado: la partida decide si ya ocurrió.
 - **Quién lo sabe:** Elys, Veyra, Aldric y Mira.
+
+### 10.10 La niña de Pentos (Daenerys)
+- Durante el viaje por Essos (293–295), en **Pentos**, Elys vio a una **niña de pelo blanco, perdida**, a la que estaban a punto de raptar. **Interrumpió el rapto, la salvó, le dejó oro y se fue.**
+- **Era Daenerys Targaryen** (entonces de unos 9–11 años).
+- **Quién lo sabe al arrancar:** nadie sabe la identidad del otro. Elys recuerda a una niña de pelo blanco; Daenerys recuerda a un desconocido de pelo blanco-plateado que la salvó y le dio oro. Ninguno sabe el nombre del otro. Viserys no sabe nada.
+
+### 10.11 Oberyn Martell
+- Elys conoció a **Oberyn Martell en Lys** durante el viaje por Essos (293–295). Pasaron días **"muy juntos"**: son **amigos y amantes ocasionales**.
+- **Por eso Casa Lafret vende acero a los Lannister:** la venta a Tywin y el trato con su casa son la vía por la que Elys consigue información sobre los Lannister y **se la pasa a Oberyn**. Ayuda a Oberyn por amistad.
+- **Quién lo sabe al arrancar:** Elys, Oberyn y Aldric. Lo que Oberyn haya contado a Doran o a Ellaria lo decide la partida. Los Lannister no lo saben.
+
