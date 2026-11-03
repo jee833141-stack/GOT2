@@ -107,10 +107,7 @@
   - **En las fraguas de verdad** (producción y almacenes, cerca del oeste y el norte, sin anunciar): los **otros 41 herreros** y los **otros 80 huérfanos**, que las trabajan y las guardan.
 - **Las fraguas de la Madriguera:** son fraguas de verdad, pero **casi siempre se encienden solo para echar humo** y aparentar actividad. Tienen **material** para aparentar y para **trabajar de verdad si llega visita**. La producción real no está ahí.
 - **Negocios:**
-  - **Westeros (a cara descubierta, con sello):** acero. **Tywin Lannister compró espadas para su guardia personal** y dijo que era "el mejor acero desde la guerra". *(Añadido en partida: fueron **200 espadas, hace dos años**, y es la **última venta a los Lannister**.)*
-  - **Capacidad de producción (añadido en partida):** las fraguas de Elys hacen unas **5.000 espadas al año**.
-  - **Existencias al estallar la guerra (añadido en partida):** **19.000 espadas** y **2.300 juegos completos**, cargados en barcos que no han zarpado (eran para el contrabando a Essos). Elys se lo confiesa a los Tyrell en el solar de Mace (Mace, Willas, Garlan, Olenna).
-  - **Reserva para los Stark (añadido en partida):** aparte de esas existencias, Elys preparó hace años un cargamento **para el Norte**, por si los Stark iban a la guerra. Al estallar la guerra lo manda subir hacia Puerto Blanco. Los barcos de las existencias están en (o junto a) la finca y suben hacia Altojardín por orden de Elys.
+  - **Westeros (a cara descubierta, con sello):** acero. **Tywin Lannister compró espadas para su guardia personal** y dijo que era "el mejor acero desde la guerra".
   - **Essos (sin sello):** armas al por mayor a **revendedores de puertos**, que compran con descuento y revenden a precio medio-alto.
   - **Venenos:** solo a las Ciudades Libres, mediante intermediarios. (Los introdujo Elys; no los hacía su padre.) **Los dirige Veyra**, que también se encarga de arreglar las fugas (información, personas, rastros).
   - **Compañía Dorada:** Elys **no hace negocios directos** con ella. Comerciantes compran al por mayor lo que salen de las fraguas de Elys, **sin sellos de la casa**, y lo venden en Essos; así llegan las armas a la Compañía.
@@ -175,9 +172,6 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **La nana de Seyue** (alto valyrio antiguo; la cantaba a Sansa y a Elys): *"Duerme, luna mía. El frío es tu manta. El fuego no sabe tu nombre. Nadie te encontrará."* **La melodía es la misma que Viserys tarareaba a Daenerys.**
 - **Bertyn lo adivinó** (o lo sospechó) y se negó a contarlo.
 - **Quién lo sabe al arrancar:** nadie con certeza. Bertyn lo sospechaba y se niega a contarlo (muerto en el Punto F; vivo en el G); Elys intuye algo que prefiere "olvidar". Daenerys tiene el libro de sangre pero no conoce a Elys.
-
-- **Añadido en partida:** durante el viaje por Essos (293–295), Elys dio caza al último superviviente de la tripulación del barco que raptó a Seyue. Por él sabe de dónde salió su madre.
-- **Añadido en partida:** Olenna oyó la nana de Seyue una vez en la corte, cantada por la reina Rhaella a Viserys niño. No tiene certeza del linaje, pero lo cree.
 
 ### 10.2 La boda de Bertyn y Seyue (versión verdadera)
 > **Sustituye** la versión de §2 ("maestre de legitimidad dudosa", "compra sencilla"). El anillo y el texto grabado siguen igual.
