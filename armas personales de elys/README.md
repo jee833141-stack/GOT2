@@ -19,3 +19,7 @@
 | **Unión** | Dagas con cadena | `union_dagas_cadena.png` | Dos dagas de hoja ancha y aserrada en la base, empuñadura de malla de acero, unidas por una larga cadena de eslabones labrados. |
 | **Semilla y Siembra** | Hoces a juego | `semilla_y_siembra_hoces.png` | Hojas largas en media luna, negras por el lomo y de filo plateado, grabadas con runas; mangos negros con virola plateada. |
 | **Rabia y Perdón** | Hoces a juego | `rabia_y_perdon_hoces.webp` | Hojas cortas y curvas de acero claro; mangos de madera rojiza con anillas de acero pavonado; fundas de madera negra. |
+| **Orgullo y Avaricia** | Espadas gemelas | `orgullo_y_avaricia_gemelas.jpg` | Hojas rectas, largas y estrechas de acero pulido; guarda plateada pequeña; empuñadura de madera rojiza con pomo de plata; vainas negras con contera de plata. |
+| **Colmillo de Tormenta** | Espada serpiente | `colmillo_de_tormenta_espada.jpg` | Hoja de doble filo oscura con canal claro; guarda curva; empuñadura escamada que termina en cabeza de serpiente con ojos rojos y colmillos abiertos. |
+| **Embestida** | Alabarda | `embestida_alabarda.jpg` | Asta de bronce oscuro labrada; punta de lanza con cuchilla lateral en ángulo y cabeza de bestia en la unión; borla roja en el extremo. |
+| **Cascada** | Espada | `cascada_espada.jpg` | Hoja recta y larga con grabado en zigzag; guarda pequeña; empuñadura de plata calada con cordón y borla; vaina oscura con remates de plata y lazos. |
