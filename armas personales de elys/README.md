@@ -1,5 +1,7 @@
 # Armas personales de Elys
 
+Colección personal de Elys Lafret: armas que **no vende**. Cuando viaja, lleva **5** de ellas.
+
 | Nombre | Tipo | Imagen | Aspecto |
 |---|---|---|---|
 | **Tallo y Espina** | Espadas gemelas | `tallo_y_espina_gemelas.webp` | Hojas rectas de doble filo, pulidas como espejo; empuñaduras largas de latón dorado labradas en escamas. |
