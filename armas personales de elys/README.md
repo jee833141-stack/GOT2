@@ -11,3 +11,8 @@
 | **Recuerdo** | Lanza | `recuerdo_lanza.png` | Asta de madera oscura con agarre forrado en cuero rojo; punta de acero con filo rojo; cinta roja deshilachada atada bajo la punta. |
 | **Brisa Blanca** | Lanza | `brisa_blanca_lanza.png` | Asta de plata con grabados; punta larga y fina con veta roja y guarda en cruz; regatón afilado. |
 | **Colmillo** | Lanza | `colmillo_lanza.png` | Lanza sencilla de asta larga de madera rojiza; hoja curva de un solo filo, al estilo de una naginata. |
+| **Rocío** | Espada de punta cuadrada | `rocio_espada.webp` | Hoja recta de un filo y punta cuadrada; empuñadura larga envuelta en cuero oscuro; vaina negra con remates de acero. |
+| **Devoradora de Cielos** | Espada blanca | `devoradora_de_cielos_espada.png` | Hoja larga y levemente curva, blanca, con vetas doradas; guarda dorada con un ojo rojo en el centro; vaina blanca con adornos de oro. |
+| **Odio y Amor** | Dagas a juego | `odio_y_amor_dagas.png` | Dagas de doble filo con incrustaciones rojas; guarda dorada en anillo labrado; empuñadura blanca trenzada; pomo de oro con gema roja. No se llevan escondidas: se lucen. |
+| **Olvido y Anhelo** | Hachas de mano gemelas | `olvido_y_anhelo_hachas.webp` | Cabezas de acero damasquinado con grabados de nudos; mangos de madera tallada con entrelazados y remaches de cobre. |
+| **Danza de Víboras** | Lanza | `danza_de_viboras_lanza.webp` | Punta ondulada de acero con serpientes de bronce enroscadas; flecos de piel de serpiente bajo la punta; asta de madera con agarre de piel escamada. |
