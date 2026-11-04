@@ -16,3 +16,6 @@
 | **Odio y Amor** | Dagas a juego | `odio_y_amor_dagas.png` | Dagas de doble filo con incrustaciones rojas; guarda dorada en anillo labrado; empuñadura blanca trenzada; pomo de oro con gema roja. No se llevan escondidas: se lucen. |
 | **Olvido y Anhelo** | Hachas de mano gemelas | `olvido_y_anhelo_hachas.webp` | Cabezas de acero damasquinado con grabados de nudos; mangos de madera tallada con entrelazados y remaches de cobre. |
 | **Danza de Víboras** | Lanza | `danza_de_viboras_lanza.webp` | Punta ondulada de acero con serpientes de bronce enroscadas; flecos de piel de serpiente bajo la punta; asta de madera con agarre de piel escamada. |
+| **Unión** | Dagas con cadena | `union_dagas_cadena.png` | Dos dagas de hoja ancha y aserrada en la base, empuñadura de malla de acero, unidas por una larga cadena de eslabones labrados. |
+| **Semilla y Siembra** | Hoces a juego | `semilla_y_siembra_hoces.png` | Hojas largas en media luna, negras por el lomo y de filo plateado, grabadas con runas; mangos negros con virola plateada. |
+| **Rabia y Perdón** | Hoces a juego | `rabia_y_perdon_hoces.webp` | Hojas cortas y curvas de acero claro; mangos de madera rojiza con anillas de acero pavonado; fundas de madera negra. |
