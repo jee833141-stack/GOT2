@@ -7,3 +7,7 @@
 | **Floral** | Ropera | `floral_ropera.webp` | Hoja fina grabada con enredaderas; cazoleta plateada de volutas y flor de lis; vaina y cinto de cuero verde con herrajes de plata. |
 | **Lluvia** | Espada bastarda | `lluvia_espada_bastarda.png` | Hoja recta y larga de acero claro; guarda curva sencilla; empuñadura de cuero negro; vaina negra. |
 | **Cazadora de Promesas** | Sable | `cazadora_de_promesas_sable.webp` | Hoja curva y ancha que se estrecha hacia la punta; empuñadura negra con anillas de plata; vaina negra con remates de plata. |
+| **Víbora del Desierto** | Lanza | `vibora_del_desierto_lanza.png` | Asta plateada con remates dorados; punta ancha de plata labrada sobre espiral de oro; cinta dorada con tres colgantes que va de la punta al regatón. |
+| **Recuerdo** | Lanza | `recuerdo_lanza.png` | Asta de madera oscura con agarre forrado en cuero rojo; punta de acero con filo rojo; cinta roja deshilachada atada bajo la punta. |
+| **Brisa Blanca** | Lanza | `brisa_blanca_lanza.png` | Asta de plata con grabados; punta larga y fina con veta roja y guarda en cruz; regatón afilado. |
+| **Colmillo** | Lanza | `colmillo_lanza.png` | Lanza sencilla de asta larga de madera rojiza; hoja curva de un solo filo, al estilo de una naginata. |
