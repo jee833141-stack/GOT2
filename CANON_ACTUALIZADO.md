@@ -5,7 +5,7 @@
 > 1. **Lo ocurrido en la partida** (hechos ya narrados; regla 7 / §XIV del Contexto). Nada de abajo lo revierte.
 > 2. **El Punto de Entrada activo** (`PUNTO_DE_ENTRADA_F.md` o `PUNTO_DE_ENTRADA_G.md`): manda **solo sobre el estado inicial del mundo** (qué ha pasado ya, quién sabe qué, dónde está cada quien al arrancar). Si dos puntos de entrada chocan, vale el que el jugador haya elegido; los demás se ignoran.
 > 3. **Este canon** (`CANON_ACTUALIZADO.md`). Dentro de él, **§10 manda sobre §2–7**.
-> 4. **`CONTEXTO_ELYS_LAFRET_GOT.md`** (trasfondo y opciones A–E).
+> 4. **`CONTEXTO_ELYS_LAFRET_GOT.md`** (trasfondo y opciones A–G).
 > 5. **Prompt Maestro**: la **ficha** y el trasfondo que incluye.
 > 6. **Fichas HTML** (Elys, Aldric, Veyra).
 >
@@ -72,7 +72,7 @@
 
 ## 3. ARMAS Y MONTURAS
 
-- **Colmillo de la Tormenta:** espada oficial de la casa, **acero valyrio**. Hoja gris casi negra con ondas profundas; empuñadura en forma de **serpiente negra con ojos de rubí**; guarda curva con púas. Según cuenta Bertyn, la compró hacia el 283 **en un barco, en Essos**: iba escondida entre un cargamento de espadas de chatarra y ahí la encontró. Le cambió la empuñadura y el nombre. **Origen real en §10.4.** **No aparece en ninguna lista conocida.** Nadie fuera de la casa y de Invernalia la ha visto desnuda.
+- **Colmillo de la Tormenta:** espada oficial de la casa, **acero valyrio**. Hoja gris casi negra con ondas profundas; empuñadura en forma de **serpiente negra con ojos de rubí**; guarda curva con púas. Según cuenta Bertyn, la compró hacia el 283 **en un barco, en Essos**: iba escondida entre un cargamento de espadas de chatarra y ahí la encontró. Le cambió la empuñadura y el nombre. **Origen real en §10.4.** **No aparece en ninguna lista conocida.** **Que es valyria solo lo saben Elys, Bertyn, Ned y Robert** (Bertyn se la mostró a Robert hace años). Nadie más, ni siquiera el resto de la casa.
 - **Mar de Sombras (la espada negra):** forjada por Elys con una técnica de **"humo"** (ver §10.5). Es lo más parecido al acero valyrio que alguien ha hecho en siglos; tiene ondas tenues "más cerca de la piel del acero". Secreto de alto nivel: solo Elys sabe cómo se hace. **Está oculta junto a Colmillo de la Tormenta.**
 - **Colección personal de Elys:** armas que **no vende** (lista, imágenes y aspecto en `armas personales de elys/README.md`; si hay diferencias de aspecto, vale ese README). **Cuando viaja, lleva 5 de ellas**, elegidas por el jugador en cada salida (ver "El museo de armas"). Tres de las más usadas:
 - **Pétalo Blanco:** katana de la colección. Forjada por Elys (**no** es acero de humo). Hoja curva de un solo filo, plegada muchas veces sobre sí misma y templada en un aceite especial con flores blancas y ácido, que le da una dureza flexible y deja vetas blancas y ocres como mármol. Empuñadura de cordón blanco, guarda plateada y dorada, vaina plateada con cordaje marfil.
@@ -113,7 +113,7 @@
   - **Compañía Dorada:** Elys **no hace negocios directos** con ella. Comerciantes compran al por mayor lo que salen de las fraguas de Elys, **sin sellos de la casa**, y lo venden en Essos; así llegan las armas a la Compañía.
   - **El Banco de Hierro les debe a ellos.**
 - **Magistrado Frendin (Pentos):** debe a Elys la vida. Elys lo salvó de un khal a cambio de una carreta de carne y cuero (viaje a Essos de 293–295). Prueba: **un medallón con una huella de sangre**. Es la fuente del rumor de Pentos (Viserys y Daenerys negocian con los dothrakis).
-- **Secretos grandes:** solo los conocen **Elys, Veyra, Aldric y Mira.**
+- **Secretos grandes:** solo los conocen **Elys, Veyra, Aldric y Mira.** Excepción: que **Colmillo de la Tormenta es valyria** lo saben solo **Elys, Bertyn, Ned y Robert** (§3 y §10.4).
 
 ### Los hermanos (versión real; la pública es "vicios")
 | Hermano | Muerte |
@@ -143,7 +143,7 @@ Elys los enterró a los tres. **Solo Ned** conoce la verdad, por cartas de Elys 
 
 Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta que la partida lo decida.
 
-- **Ned:** tío de facto. Le enseñó esgrima y lo crio como a un hijo en Invernalia. Sabe la verdad de los hermanos. **No sabe** lo de Pentos, el anillo, Olenna ni el origen de Seyue.
+- **Ned:** tío de facto. Le enseñó esgrima y lo crio como a un hijo en Invernalia. Sabe la verdad de los hermanos. **No sabe** lo de Pentos, el anillo, Olenna ni el origen de Seyue. **Sabe que Colmillo de la Tormenta es valyria.**
 - **Catelyn:** segunda madre. Le enseñó a coser y a vestir. Quiere a Elys de verdad y teme a los Lannister.
 - **Robb:** hermano de facto (en edad es menor que Elys). Compartieron infancia en Invernalia.
 - **Jon:** igual que Robb, con la reserva habitual de Jon.
@@ -151,7 +151,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Luwin:** maestre de Invernalia y su tutor de letras, cuentas, metales y plantas.
 - **Theon:** pupilo de los Stark desde 289; convivieron en Invernalia, pero **nunca se llevó bien con Elys ni con Aldric** (ni de niños ni después). Ese roce es previo a la partida.
 - **Benjen:** conoce a Elys desde niño; cariño.
-- **Robert:** favoreció a Bertyn y le dio el apellido Lafret. Le tenía cariño. No hay trato personal conocido con Elys.
+- **Robert:** favoreció a Bertyn y le dio el apellido Lafret. Le tenía cariño. No hay trato personal conocido con Elys. **Sabe que Colmillo de la Tormenta es valyria: Bertyn se la mostró hace años.**
 - **Olenna Tyrell:** testigo de la boda de Bertyn y Seyue. Sabe más de lo que dice (§10.2).
 - **Tywin Lannister:** trató en persona con Elys por el encargo de espadas para su guardia. Buscó algo de qué quejarse, no lo encontró, y Elys le sacó más dinero. Lo recuerda.
 - **Jaime Lannister:** probó las espadas de Elys combatiendo contra él con una de práctica y lo tumbó tres veces sin esfuerzo, aunque Elys le acertó un golpe en el ojo. Lo recuerda.
@@ -202,10 +202,10 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Acero valyrio anterior a la Maldición, rehecha en Qohor hace más de cien años, forjada para una mujer.** Un experto en acero valyrio la leería así.
 - Bertyn le cambió la empuñadura (serpiente negra de ojos de rubí) **para ocultar lo que era**; **la adaptó para Seyue.**
 - **Su nombre original sigue sin conocerse.** El libro del gremio de Qohor podría decirlo.
-- **Quién lo sabe al arrancar:** Bertyn (muerto en el Punto F; vivo en el G). Elys conoce la historia del barco tal como la cuenta Bertyn y sabe que es valyria; no conoce su historia anterior ni su nombre.
+- **Quién lo sabe al arrancar:** Bertyn (muerto en el Punto F; vivo en el G). Elys conoce la historia del barco tal como la cuenta Bertyn y sabe que es valyria; no conoce su historia anterior ni su nombre. **Que es valyria lo saben solo Elys, Bertyn, Ned y Robert** (Bertyn se la mostró a Robert hace años); Ned y Robert tampoco conocen su origen real.
 
 ### 10.5 La técnica del "humo" (acero de humo)
-- **Solo Elys conoce la técnica.** Bertyn la buscó toda la vida y murió intentándola.
+- **Solo Elys conoce la técnica.** Bertyn la buscó toda la vida sin lograrla y murió intentándola (Puntos A y F; en el **Punto G** sigue vivo y sigue intentándola a escondidas).
 - **Exposiciones graves de Elys al arrancar la partida:** 3 (de 8). Le han dejado tos y los pulmones tocados. Lo saben él y Aldric.
 - **El vapor intoxica** a quien lo respira. Hacer una pieza grande exige horas respirándolo. Cada exposición grave provoca desmayo y días de recuperación; **a la octava vez, mata.**
 - **Aspecto:** ondas tenues "más cerca de la piel del acero" que de un acero normal. Sus ondas recuerdan a las de *Hielo*. Es lo más cercano al valyrio que se ha hecho en siglos, pero **no es valyrio**.
@@ -226,7 +226,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 ### 10.9 Reglas del acero de humo y el Banco de Hierro (añadidas)
 - **Regla de mundo (por si se llega a ella):** el acero de humo mata a los muertos (wights): caen y no se levantan. **No aguanta contra un Caminante Blanco:** el filo se rompe (se parte contra él).
 - **Colmillo de la Tormenta** (valyria) **sí destruye a un Caminante Blanco:** clavada en el pecho, el Caminante estalla.
-- **El Banco de Hierro es de los Lafret.** **Veyra envenenó al consejo del Banco que se le oponía** y lo controla. Fecha sin fijar. Al arrancar en 298 vale que *"el Banco les debe a ellos"* (§5) y esto es un posible paso de Veyra, no un hecho consumado: la partida decide si ya ocurrió.
+- **Posible paso de Veyra (no es un hecho consumado al arrancar):** **envenenar al consejo del Banco que se le opone** y controlarlo, con lo que **el Banco de Hierro pasaría a ser de los Lafret**. Al arrancar en 298 solo vale que *"el Banco les debe a ellos"* (§5); la partida decide si ocurre y cuándo.
 - **Quién lo sabe:** Elys, Veyra, Aldric y Mira.
 
 ### 10.10 La niña de Pentos (Daenerys)

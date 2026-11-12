@@ -370,7 +370,7 @@ Variante de la Opción A con **Bertyn vivo**: enfermo, tosiendo y todavía inten
 | Señores menores del Dominio | Casa Lafret existe. Herreros. Exóticos. Rara vez vistos. |
 | Mercaderes de ciudades libres | Elys paga bien, cumple sus tratos, viste extraño, tiene un guarda aterrador. |
 | Corte de Desembarco del Rey | Casa Lafret existe en registros. Pagan impuestos. El que traga sables. Nada más. |
-| **Robert Baratheon** | Conocía bien a **Bertyn**. A Elys, menos — lo recuerda vagamente como "el del medio, el que fue al Norte". Sabe que existe, pero no hay trato personal conocido con él. |
+| **Robert Baratheon** | Conocía bien a **Bertyn**. A Elys, menos — lo recuerda vagamente como "el del medio, el que fue al Norte". Sabe que existe, pero no hay trato personal conocido con él. Sabe que Colmillo de la Tormenta es valyria: Bertyn se la mostró hace años. |
 | Varys | *Sabe más de lo que parece. Cuánto exactamente: lo descubre el jugador en simulación.* |
 | Littlefinger | Conoce el nombre. No ha invertido tiempo todavía. |
 | **Los Stark** | Catelyn: conoce a Elys desde su infancia, fue amiga de su madre. Ned: lo tuvo bajo su techo ~12 años. Lo considera casi familia. Robb y Jon: lo ven como a un hermano (Elys es mayor), afección genuina. |
@@ -383,7 +383,7 @@ Variante de la Opción A con **Bertyn vivo**: enfermo, tosiendo y todavía inten
 - La posición con el Banco de Hierro
 - El linaje valyrio de Seyue y la nana (nadie lo sabe con certeza; Bertyn lo sospecha y calla: muerto en A y F, vivo en G)
 - La verdad de la boda de Bertyn y Seyue (solo Olenna Tyrell la sabe entera)
-- Que Colmillo de la Tormenta es acero valyrio (solo la casa: Elys y Bertyn; fuera de ella, solo en Invernalia la han visto desnuda) ni su origen real (nadie lo conoce entero; ver `CANON_ACTUALIZADO.md` §10.4)
+- Que Colmillo de la Tormenta es acero valyrio (solo lo saben Elys, Bertyn, Ned y Robert, a quien Bertyn se la mostró hace años) ni su origen real (nadie lo conoce entero; ver `CANON_ACTUALIZADO.md` §10.4)
 - La técnica del acero de humo (solo Elys)
 - La verdad sobre la muerte de los hermanos (solo Ned, por cartas)
 - El origen de Yunke y Martillo (Khal Drogo)

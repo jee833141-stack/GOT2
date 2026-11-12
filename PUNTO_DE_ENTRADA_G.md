@@ -25,7 +25,7 @@ Robert Baratheon sale de Desembarco del Rey hacia Invernalia para ofrecer la Man
 |---|---|
 | **Elys** | Que el rey viene y se desvía a la finca (aviso de unos pocos días por cuervo/jinete). Que Bertyn sigue intentando el humo y que eso lo va a matar. Todo lo de su casa según el canon. **No sabe** que Robert quiere llevarse a Bertyn a Invernalia. |
 | **Bertyn** | Que Robert viene. Que se muere, sin saber cuándo. Sospecha el linaje de Seyue y se niega a contarlo. Sigue ocultando la técnica fallida a Elys. Cuenta cómo encontró Colmillo de la Tormenta en un barco en Essos, entre espadas de chatarra (canon §10.4). |
-| **Robert** | Que Bertyn es su viejo amigo de guerra y que lleva años enfermo. Que Elys es "el del medio, el que fue al Norte" (recuerdo vago). Que tres hijos murieron por vicios. **Quiere que Bertyn lo acompañe a Invernalia.** No sabe lo de Seyue, el linaje ni el humo. |
+| **Robert** | Que Bertyn es su viejo amigo de guerra y que lleva años enfermo. Que Elys es "el del medio, el que fue al Norte" (recuerdo vago). Que tres hijos murieron por vicios. **Quiere que Bertyn lo acompañe a Invernalia.** Sabe que Colmillo de la Tormenta es valyria (Bertyn se la mostró hace años). No sabe lo de Seyue, el linaje ni el humo. |
 | **Ned y Catelyn** | **Aún no saben nada** de la visita. Ned recibirá la carta de Robert más adelante. Catelyn **no** ha escrito a Elys todavía. |
 | **Veyra** | En Braavos, operando sobre la deuda del Banco de Hierro. Sabe que Bertyn está mal. |
 | **Harlan** | Mayordomo en la Madriguera, al frente de la casa mientras el lord está en escena. |
@@ -58,7 +58,7 @@ Si Robert se lleva a Bertyn y/o a Elys en la comitiva, viajan con ella y llegan 
 - **Gente:** Harlan; **24 herreros** (de los 65 de la casa) y **70 huérfanos** (de los 150; el resto está en las fraguas de verdad, canon §5); los **55 guardias comunes**; Tobren (jefe de la escolta), Dav y Wat. Los huérfanos llevan una serpiente de hueso blanco al cuello.
 - **Capacidad:** una corte real entera no cabe. La finca puede alojar a Robert, la reina, los hijos y un puñado de nobles; el resto acampa fuera. Esa logística es parte de la escena.
 - **Tyrell:** la finca está en jurisdicción del Dominio. Ningún Tyrell viene con el rey, pero la visita llegará a Altojardín.
-- **Lo que hay que esconder** (si Elys quiere): el negocio de venenos, el humo, Colmillo de la Tormenta, el anillo y la boda, y que **Bertyn le dijo a Elys que nunca le hablara de dragones a Robert**. Bertyn vivo es además el único testigo de primera mano de lo que sospecha sobre Seyue.
+- **Lo que hay que esconder** (si Elys quiere): el negocio de venenos, el humo, Colmillo de la Tormenta (Robert ya sabe que es valyria, porque Bertyn se la mostró hace años, pero no que Mar de Sombras está oculta junto a ella), el anillo y la boda, y que **Bertyn le dijo a Elys que nunca le hablara de dragones a Robert**. Bertyn vivo es además el único testigo de primera mano de lo que sospecha sobre Seyue.
 
 ---
 
