@@ -60,7 +60,7 @@
 - **Riesgo legal:** los maestres no casan a nadie. Un septón podría declarar nula la boda y a Elys bastardo.
 - Seyue trenzó el pelo a Sansa de niña y le cantó en una lengua extraña.
 - **Bertyn le dijo a Elys que nunca le hablara de dragones a Robert.**
-- **Quién lo sabe al arrancar:** Elys (lo de esta sección, que es la versión corta; no conoce la verdad completa de §10.2 ni el linaje de §10.1); Veyra, Aldric y Mira (lo básico). **Nadie más** lo sabe, ni siquiera Ned.
+- **Quién lo sabe al arrancar:** Elys (lo de esta sección, que es la versión corta; no conoce la verdad completa de §10.2 ni el linaje de §10.1); Veyra, Aldric y Mira (lo básico). **Olenna Tyrell** fue testigo y sabe la versión completa de la boda (§10.2), que nunca ha contado. **Nadie más** lo sabe, ni siquiera Ned.
 
 ### Linaje (SECRETO ABSOLUTO)
 - Seyue pertenecía a una **rama valyria emparentada de lejos con los Targaryen**, que emigró al este (más allá de Asshai) "hacia el frío", y adaptada a él. Fue raptada por esclavistas **a los 3 años**; nunca supo su linaje y murió creyendo que era noble por el apellido de su esposo. Se crió en Leng. *(Detalle en §10.1.)*
@@ -161,7 +161,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 
 ---
 
-> *Las secciones 8 y 9 no existen: se conserva el número de la §10 porque los demás documentos citan sus apartados (§10.1–§10.9).*
+> *Las secciones 8 y 9 no existen: se conserva el número de la §10 porque los demás documentos citan sus apartados (§10.1–§10.11).*
 
 ## 10. TRASFONDO Y VERDADES DEL PASADO (válido para cualquier simulación)
 
@@ -226,12 +226,12 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 ### 10.9 Reglas del acero de humo y el Banco de Hierro (añadidas)
 - **Regla de mundo (por si se llega a ella):** el acero de humo mata a los muertos (wights): caen y no se levantan. **No aguanta contra un Caminante Blanco:** el filo se rompe (se parte contra él).
 - **Colmillo de la Tormenta** (valyria) **sí destruye a un Caminante Blanco:** clavada en el pecho, el Caminante estalla.
-- **El Banco de Hierro es de los Lafret.** **Veyra envenenó al consejo del Banco que se le oponía** y lo controla. Fecha sin fijar. Al arrancar en 298 vale que *"el Banco les debe a ellos"* (§5) y esto es un posible paso de Veyra, no un hecho consumado: la partida decide si ya ocurrió.
+- **El Banco de Hierro les debe a los Lafret** (§5): eso es lo único cierto al arrancar en 298. **Posible paso de Veyra, no consumado:** envenenar al consejo del Banco que se le opone y pasar a controlarlo. No tiene fecha; la partida decide si ocurre y cuándo.
 - **Quién lo sabe:** Elys, Veyra, Aldric y Mira.
 
 ### 10.10 La niña de Pentos (Daenerys)
 - Durante el viaje por Essos (293–295), en **Pentos**, Elys vio a una **niña de pelo blanco, perdida**, a la que estaban a punto de raptar. **Interrumpió el rapto, la salvó, le dejó oro y se fue.**
-- **Era Daenerys Targaryen** (entonces de unos 9–11 años).
+- **Era Daenerys Targaryen** (entonces de unos 11–13 años, según las edades de la serie).
 - **Quién lo sabe al arrancar:** nadie sabe la identidad del otro. Elys recuerda a una niña de pelo blanco; Daenerys recuerda a un desconocido de pelo blanco-plateado que la salvó y le dio oro. Ninguno sabe el nombre del otro. Viserys no sabe nada.
 
 ### 10.11 Oberyn Martell
