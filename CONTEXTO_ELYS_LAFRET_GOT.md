@@ -126,7 +126,7 @@ Lo que cualquier mercader, maestre o señor mediano podría saber:
 - **Género:** ambiguo por elección. Viste indistintamente y nunca corrige a quien lo llama de una forma u otra.
 - **Apariencia:** pelo blanco-plateado, largo (liso arriba, ondulado/rizado en las puntas); ojos azul pálido con un tono lila; piel muy blanca; 1,76 m, esbelto. Heredó la apariencia de su madre, Seyue; de los hijos de Bertyn es el único con ese rasgo (sus hermanos y Veyra salieron al padre). Es también el que más se acercó a Bertyn en oficio y temperamento, pese a ser el que menos se le parece físicamente.
 - **Oficio:** herrero y diseñador de armas, armaduras y ropa; genio armamentístico. Aprendió el oficio de Bertyn, aunque su padre era mejor herrero en la técnica pura del metal. Donde Elys sobresale es en el diseño: piezas pensadas para la función y la imagen de quien las porta, no solo para resistir. Diseña y cose su propia ropa (aprendió con Catelyn). Esgrima con Ned (y Ser Rodrik); letras, cuentas, metales y plantas con el maestre Luwin.
-- **Hábitos:** bebe vino a cualquier hora; se truena el cuello cuando va a hacer algo que no debe. Casi no siente el frío (herencia materna): en Invernalia lo llamaban "hijo del invierno". Estado físico al arrancar: sano, sin heridas.
+- **Hábitos:** bebe vino a cualquier hora; se truena el cuello cuando va a hacer algo que no debe. Casi no siente el frío (herencia materna): en Invernalia lo llamaban "hijo del invierno". Estado físico al arrancar: sin heridas, pero con tos y los pulmones tocados por 3 exposiciones graves al humo (`CANON_ACTUALIZADO.md` §10.5); solo lo saben él y Aldric.
 
 ### Personalidad
 

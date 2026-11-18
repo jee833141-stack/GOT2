@@ -99,7 +99,7 @@ Igual que en el Punto F (§8): Robert, Cersei, Joffrey, Myrcella, Tommen, Jaime,
 - Ubicación del PJ: La Madriguera del Conejo, límite del Dominio
 - Tiempo en el mundo: 298 DC, unos 34 días antes de la llegada del rey a Invernalia
 - Acompañantes presentes: Aldric, Tobren, Harlan, Dav, Wat, Bertyn (vivo y enfermo)
-- Heridas / condiciones: ninguna en Elys
+- Heridas / condiciones: ninguna herida en Elys; tos y pulmones tocados (3 de 8 exposiciones al humo)
 - Último evento relevante: aviso de que el rey se desvía a la finca
 - Hilos abiertos: Bertyn sigue intentando el humo; Robert quiere llevárselo a Invernalia; secretos de la casa; Catelyn aún no ha escrito
 ```

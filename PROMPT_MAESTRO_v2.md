@@ -222,7 +222,7 @@ Ejemplo de bloque de estado inicial:
 - Ubicación del PJ: La Madriguera del Conejo, a 6 días a caballo con prisa de Desembarco del Rey (límite del Dominio)
 - Tiempo en el mundo: 298 DC, antes de que el rey llegue a Invernalia
 - Acompañantes presentes: Aldric
-- Heridas / condiciones: ninguna
+- Heridas / condiciones: ninguna herida; tos y pulmones tocados (3 de 8 exposiciones al humo)
 - Último evento relevante: Bertyn murió hace 3–4 semanas en su fragua; Veyra está en Braavos (operación Banco de Hierro)
 - Hilos abiertos: pedidos de revendedores de puertos de Essos, deuda del Banco de Hierro, Altojardín ya sabe de la muerte de Bertyn, pero el aviso a Palacio se archivó y Robert no lo sabe
 ```
@@ -255,7 +255,7 @@ Ejemplo de bloque de estado inicial:
 | Voz | Mezzo, ambigua, modulada a voluntad |
 | Oficio | Herrero y diseñador de armas, armaduras y ropa |
 | Frío | Casi no lo siente (herencia materna) |
-| Estado al arrancar | Sano, sin heridas |
+| Estado al arrancar | Sin heridas; tos y pulmones tocados por 3 exposiciones al humo (canon §10.5; solo lo saben él y Aldric) |
 
 De lejos, y a veces de cerca, Elys Lafret parece una mujer. No por artificio ni por debilidad — simplemente así es. El cabello plateado cae largo, liso arriba y ondulado en las puntas. Los pómulos son altos, la mandíbula apenas marcada, los labios finos pero definidos. Mide lo suficiente para no ser pequeño, pero el cuerpo nunca desarrolló la anchura ni el peso que el mundo espera de un lord.
 

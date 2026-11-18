@@ -49,7 +49,7 @@
 - **Formación:** esgrima con **Ned Stark** (entrenamiento "a la mala" con Ser Rodrik); letras, cuentas, metales y plantas con el **maestre Luwin**.
 - **Oficio:** herrero y diseñador de armas, armaduras y ropa. Genio armamentístico.
 - **Hábitos:** bebe vino a cualquier hora; se truena el cuello cuando va a hacer algo que no debe (lo hacía desde niño; su madre lo odiaba). Lleva de 3 a 7 cuchillos ocultos (fundas en antebrazos, muslo, mangas).
-- **Estado físico al arrancar:** sano, sin heridas.
+- **Estado físico al arrancar:** sin heridas, pero con **tos y los pulmones tocados** por 3 exposiciones graves al humo (ver §10.5). Lo saben él y Aldric; para los demás, Elys parece sano.
 
 ### Seyue: lo que se sabe de ella
 - Era esclava desde que tenía memoria (la raptaron a los 3 años, así que no recordaba a sus padres). La vendían **muy cara por su pelo blanco y su belleza**.
@@ -205,7 +205,7 @@ Solo lo que ya existía antes de empezar. Nadie siente nada nuevo por Elys hasta
 - **Quién lo sabe al arrancar:** Bertyn (muerto en el Punto F; vivo en el G). Elys conoce la historia del barco tal como la cuenta Bertyn y sabe que es valyria; no conoce su historia anterior ni su nombre.
 
 ### 10.5 La técnica del "humo" (acero de humo)
-- **Solo Elys conoce la técnica.** Bertyn la buscó toda la vida y murió intentándola.
+- **Solo Elys conoce la técnica.** Bertyn la buscó toda la vida sin lograrla: en el Punto F murió intentándola; en el Punto G sigue vivo e intentándola a escondidas (ver §10.3).
 - **Exposiciones graves de Elys al arrancar la partida:** 3 (de 8). Le han dejado tos y los pulmones tocados. Lo saben él y Aldric.
 - **El vapor intoxica** a quien lo respira. Hacer una pieza grande exige horas respirándolo. Cada exposición grave provoca desmayo y días de recuperación; **a la octava vez, mata.**
 - **Aspecto:** ondas tenues "más cerca de la piel del acero" que de un acero normal. Sus ondas recuerdan a las de *Hielo*. Es lo más cercano al valyrio que se ha hecho en siglos, pero **no es valyrio**.

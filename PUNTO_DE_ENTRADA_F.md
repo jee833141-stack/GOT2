@@ -158,7 +158,7 @@ Quién llega a Invernalia con el rey (D0). Ninguno de ellos tiene relación con 
 - Ubicación del PJ: Camino real, a las puertas de Invernalia
 - Tiempo en el mundo: 298 DC, 3–4 días antes de la llegada del rey
 - Acompañantes presentes: Aldric, Tobren y 5 hombres de escolta
-- Heridas / condiciones: ninguna (viaje largo, agotados)
+- Heridas / condiciones: ninguna herida; Elys con tos y pulmones tocados (3 de 8 exposiciones al humo); viaje largo, agotados
 - Último evento relevante: protocolo con Altojardín (por carta) por la muerte de Bertyn, hace 4 semanas; carta de Catelyn
 - Hilos abiertos: la llegada del rey; Catelyn teme por Ned y no sabe lo de Bertyn; Robert planea pasar de regreso por la finca; Elys cree que la Corona ya fue avisada
 ```
