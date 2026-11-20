@@ -1,6 +1,6 @@
 # PARTIDA VIDICH HILL
 
-Partida **completamente independiente** de la de Elys Lafret: en este mundo no existen Elys ni la Casa Lafret.
+Partida propia de **Vidich Hill**, único personaje jugador.
 
 **Vidich Hill**, 22 años en 298 DC, hijo bastardo reconocido de Tywin Lannister y el menor de sus hijos. Es alquimista, ingeniero, diseñador de espadas, sastre y joyero. Con la espada es promedio.
 

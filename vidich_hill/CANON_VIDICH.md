@@ -1,8 +1,6 @@
 # CANON — VIDICH HILL
 **Versión 1.0 · Canon base para iniciar la partida desde cero · Canon de la SERIE (HBO) · Partida independiente**
 
-> **ESTA PARTIDA ES APARTE.** En este mundo **no existen** Elys Lafret, la Casa Lafret, Aldric, Veyra ni nada de la carpeta principal del proyecto. No se mezcla con esos documentos.
->
 > **JERARQUÍA DE DOCUMENTOS (vale para todos los archivos de esta carpeta).** Cuando dos fuentes se contradicen, gana la de arriba:
 > 1. **Lo ocurrido en la partida** (hechos ya narrados; Regla de Oro 7). Nada de lo de abajo lo revierte.
 > 2. **El Punto de Entrada elegido** (`PUNTO_DE_ENTRADA_VIDICH.md`, opción A o B): manda **solo sobre el estado inicial del mundo**.

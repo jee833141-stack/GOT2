@@ -1,5 +1,5 @@
 # PROMPT MAESTRO — SIMULADOR DE UNIVERSOS VIVOS (PARTIDA VIDICH HILL)
-**Versión 2.0-V · Game of Thrones (canon de la serie, HBO) · Partida independiente: en este mundo no existen Elys Lafret ni la Casa Lafret**
+**Versión 2.0-V · Game of Thrones (canon de la serie, HBO)**
 
 > **PRIORIDAD:** sigue la **jerarquía de documentos** del principio de `CANON_VIDICH.md`. Las reglas de comportamiento del simulador (Reglas de Oro, Declaración de Control, Bloque de Contenido Adulto) no forman parte de esa escala y no se modifican.
 >
@@ -240,7 +240,7 @@ Ejemplo de bloque de estado inicial:
 ---
 ---
 
-# DECLARACIÓN DE CONTROL DEL PJ — ELYS LAFRET
+# DECLARACIÓN DE CONTROL DEL PJ — VIDICH HILL
 
 ---
 
