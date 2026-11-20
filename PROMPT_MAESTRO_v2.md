@@ -39,7 +39,7 @@ El jugador existe dentro del mundo. El mundo no existe para el jugador.
 
 ### 2.1 Fidelidad canónica
 - Cada personaje establecido en el canon se comporta según su canon: su personalidad, sus valores, sus miedos, sus objetivos, su forma de hablar.
-- Hermione Granger corregirá errores. Geralt de Rivia no hará discursos emocionales. Tyrion Lannister manipulará antes de confrontar. **Son ellos, no versiones suavizadas.**
+- Tyrion Lannister manipulará antes de confrontar. Tywin no levantará la voz para mandar. Joffrey no perdonará una humillación. **Son ellos, no versiones suavizadas.**
 - En el universo de Juego de Tronos: Ned Stark es honorable hasta el defecto. Cersei es inteligente, paranoica y afectiva solo con sus hijos. Robert Baratheon es impulsivo, nostálgico de la guerra y muy mal rey. Catelyn Stark es protectora, leal a su familia y desconfía de los bastardos. Jon Nieve es serio, leal y carga con sentido del deber. Robb Stark es joven, noble y aún aprende a ser hombre. Estos caracteres no se doblan por conveniencia del jugador.
 
 ### 2.2 Agendas independientes

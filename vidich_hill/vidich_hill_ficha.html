@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vidich Hill — Bastardo de Lord Tywin</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+  :root {
+    --negro:   #0b0908;
+    --carbon:  #14100e;
+    --plomo:   #231b17;
+    --oro:     #c9a14a;
+    --oro2:    #8c6f34;
+    --crema:   #efe6d2;
+    --gris:    #9a8f7e;
+    --carmesi: #7a1a1a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--negro); color: var(--crema); font-family: 'EB Garamond', Georgia, serif; font-size: 17px; line-height: 1.75; }
+
+  header { background: var(--carbon); border-bottom: 1px solid var(--plomo); padding: 3rem 1rem 2.2rem; text-align: center; position: relative; overflow: hidden; }
+  header::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at 50% -20%, rgba(201,161,74,0.18) 0%, transparent 65%); pointer-events: none; }
+  .eyebrow { font-family: 'Cinzel', serif; font-size: 0.7rem; letter-spacing: 0.32em; color: var(--oro2); text-transform: uppercase; margin-bottom: 1rem; }
+  h1 { font-family: 'Cinzel', serif; font-size: clamp(2.4rem, 7vw, 4.5rem); font-weight: 900; color: var(--oro); letter-spacing: 0.06em; line-height: 1.05; }
+  .subtitulo { font-style: italic; font-size: 1.1rem; color: var(--gris); margin-top: 0.5rem; }
+  .divider { width: 100px; height: 1px; background: linear-gradient(90deg, transparent, var(--oro2), transparent); margin: 1.6rem auto 0; }
+
+  .banda { background: var(--plomo); border-top: 1px solid var(--oro2); border-bottom: 1px solid var(--oro2); padding: 0.7rem 1rem; text-align: center; font-family: 'Cinzel', serif; font-size: 0.78rem; letter-spacing: 0.22em; color: var(--gris); font-style: italic; }
+
+  main { max-width: 860px; margin: 0 auto; padding: 3rem 1rem 5rem; display: grid; gap: 2.5rem; }
+  .bloque { background: var(--carbon); border: 1px solid var(--plomo); border-left: 3px solid var(--oro2); padding: 1.8rem 1.4rem; }
+  .bloque.carmesi { border-left-color: var(--carmesi); }
+  .bloque-titulo { font-family: 'Cinzel', serif; font-size: 0.72rem; letter-spacing: 0.28em; text-transform: uppercase; color: var(--oro2); margin-bottom: 1.2rem; padding-bottom: 0.6rem; border-bottom: 1px solid var(--plomo); }
+
+  .retrato { display: block; width: 100%; max-width: 360px; margin: 0 auto 1.4rem; border: 1px solid var(--oro2); }
+  .datos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.9rem 1.6rem; }
+  .dato { display: flex; flex-direction: column; }
+  .dato-label { font-family: 'Cinzel', serif; font-size: 0.66rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gris); }
+  .dato-valor { color: var(--crema); }
+
+  ul { list-style: none; }
+  li { padding: 0.35rem 0 0.35rem 1.1rem; position: relative; }
+  li::before { content: '◆'; position: absolute; left: 0; top: 0.55rem; font-size: 0.55rem; color: var(--oro2); }
+  strong { color: var(--oro); font-weight: 500; }
+  em { color: var(--gris); }
+
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 0.5rem 0.4rem; border-bottom: 1px solid var(--plomo); vertical-align: top; }
+  th { font-family: 'Cinzel', serif; font-size: 0.66rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gris); font-weight: 400; }
+  .nivel { color: var(--oro); white-space: nowrap; }
+
+  footer { text-align: center; font-style: italic; color: var(--gris); font-size: 0.9rem; padding: 0 1rem 3rem; }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Casa Lannister · Bastardo reconocido · No legitimado</p>
+  <h1>Vidich Hill</h1>
+  <p class="subtitulo">El sastre de la reina · "La otra hermana"</p>
+  <div class="divider"></div>
+</header>
+
+<div class="banda">Hijo menor de lord Tywin Lannister · 22 años en 298 DC</div>
+
+<main>
+
+  <section class="bloque">
+    <p class="bloque-titulo">Identidad &amp; Apariencia</p>
+    <img class="retrato" src="referencia_vidich.webp" alt="Retrato de referencia de Vidich Hill">
+    <div class="datos-grid">
+      <div class="dato"><span class="dato-label">Nombre</span><span class="dato-valor">Vidich Hill</span></div>
+      <div class="dato"><span class="dato-label">Padre</span><span class="dato-valor">Lord Tywin Lannister</span></div>
+      <div class="dato"><span class="dato-label">Madre</span><span class="dato-valor">Prostituta del puerto de Lannisport <em>(nombre sin fijar)</em></span></div>
+      <div class="dato"><span class="dato-label">Nacimiento</span><span class="dato-valor">276 DC, Lannisport</span></div>
+      <div class="dato"><span class="dato-label">Estatus</span><span class="dato-valor">Reconocido, no legitimado. Sin herencia ni cargo</span></div>
+      <div class="dato"><span class="dato-label">Residencia</span><span class="dato-valor">Desembarco del Rey, con temporadas en Roca Casterly</span></div>
+      <div class="dato"><span class="dato-label">Cabello</span><span class="dato-valor">Rubio pálido, por debajo de la cintura, liso y suelto</span></div>
+      <div class="dato"><span class="dato-label">Ojos</span><span class="dato-valor">Gris azulados, de mirada baja</span></div>
+      <div class="dato"><span class="dato-label">Rasgos</span><span class="dato-valor">Finos y andróginos; piel muy pálida, labios finos</span></div>
+      <div class="dato"><span class="dato-label">Complexión</span><span class="dato-valor">Delgado, hombros estrechos, manos largas de artesano</span></div>
+      <div class="dato"><span class="dato-label">Ropa</span><span class="dato-valor">Lo que cose él mismo, de hombre o de mujer: lino blanco, pantalón oscuro de talle alto, cinturón negro</span></div>
+      <div class="dato"><span class="dato-label">Primera impresión</span><span class="dato-valor">No es raro que lo tomen por mujer</span></div>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <p class="bloque-titulo">Cronología</p>
+    <table>
+      <tr><th>Año DC</th><th>Hecho</th></tr>
+      <tr><td>276</td><td>Nace en Lannisport. Tywin lleva tres años viudo.</td></tr>
+      <tr><td>276–290</td><td>Crece en el puerto: costura, dibujo, botica, recados para orfebres y tintoreros.</td></tr>
+      <tr><td>290</td><td>Con 14 años, su madre lo vende a Tywin. Llega a la Roca; Tyrion congenia con él.</td></tr>
+      <tr><td>290–294</td><td>Maestres, biblioteca y talleres: alquimia práctica, dibujo e ingeniería. Espada: promedio.</td></tr>
+      <tr><td>294</td><td>Viaja a Desembarco. Cersei descubre su ropa y sus joyas y empieza a reclamarlo.</td></tr>
+      <tr><td>294–295</td><td>Jaime descubre que diseña espadas y mejora el temple.</td></tr>
+      <tr><td>298</td><td>Muere Jon Arryn. Empieza la simulación.</td></tr>
+    </table>
+  </section>
+
+  <section class="bloque">
+    <p class="bloque-titulo">Habilidades</p>
+    <table>
+      <tr><th>Área</th><th>Nivel</th><th>Notas</th></tr>
+      <tr><td>Costura y moda</td><td class="nivel">Muy alto</td><td>Viste a la reina y a sí mismo.</td></tr>
+      <tr><td>Joyería (diseño)</td><td class="nivel">Muy alto</td><td>Diseña piezas para Cersei.</td></tr>
+      <tr><td>Alquimia práctica</td><td class="nivel">Alto</td><td>Metales, aleaciones, tintes, ácidos. No es del Gremio de Alquimistas ni sabe hacer fuego valyrio.</td></tr>
+      <tr><td>Ingeniería</td><td class="nivel">Alto</td><td>Mecanismos, planos, cálculo práctico.</td></tr>
+      <tr><td>Diseño de armas y temple</td><td class="nivel">Alto</td><td>Entrega planos a herreros. No forja como maestro; no sabe hacer acero valyrio.</td></tr>
+      <tr><td>Letras y cuentas</td><td class="nivel">Sí</td><td>Educado por maestres en la Roca.</td></tr>
+      <tr><td>Espada</td><td class="nivel">Promedio</td><td>Se defiende; no gana a un caballero entrenado.</td></tr>
+    </table>
+  </section>
+
+  <section class="bloque">
+    <p class="bloque-titulo">Carácter</p>
+    <ul>
+      <li>Callado, tímido, susceptible y algo sumiso. Obedece antes que discutir.</li>
+      <li>Observa mucho y habla poco; más cómodo con las manos ocupadas.</li>
+      <li>Le hieren las burlas aunque no lo muestre. Busca la aprobación de su familia, sobre todo la de Tywin.</li>
+      <li><em>El simulador no decide nada de esto en escena: lo decide el jugador.</em></li>
+    </ul>
+  </section>
+
+  <section class="bloque">
+    <p class="bloque-titulo">Familia</p>
+    <ul>
+      <li><strong>Tywin:</strong> lo ve como una buena inversión. Sin afecto declarado: uso, respeto por su utilidad y vigilancia.</li>
+      <li><strong>Tyrion:</strong> el aliado desde el primer día. "Nuestro padre siente menos vergüenza de enseñarte a ti que a mí."</li>
+      <li><strong>Cersei:</strong> lo reclama desde 294; dice que es más útil que Tyrion. Solo ella puede burlarse de él.</li>
+      <li><strong>Jaime:</strong> se acercó por las espadas. Trato cómodo y algo distante.</li>
+      <li><strong>Joffrey (~16), Myrcella (~11), Tommen (~9):</strong> relación <em>sin fijar</em>. Joffrey ve en él un blanco natural, salvo que tema a su madre.</li>
+      <li><strong>La madre:</strong> lo vendió a Tywin. Vidich lo sabe. Si vive y dónde, <em>sin fijar</em>.</li>
+    </ul>
+  </section>
+
+  <section class="bloque carmesi">
+    <p class="bloque-titulo">Quién sabe qué (al arrancar)</p>
+    <table>
+      <tr><th>Dato</th><th>Lo saben</th></tr>
+      <tr><td>Que es hijo de Tywin</td><td>Público</td></tr>
+      <tr><td>Que su madre era prostituta y lo vendió</td><td>Tywin, Tyrion, Cersei, Jaime y Vidich; en la corte es rumor</td></tr>
+      <tr><td>Que diseña espadas y mejora el temple</td><td>Jaime, Tywin, Tyrion y los herreros</td></tr>
+      <tr><td>Su alquimia</td><td>Tywin, sus tutores y Tyrion; el resto, de oídas</td></tr>
+      <tr><td>Que los hijos de Cersei son de Jaime</td><td>Vidich <strong>no</strong> lo sabe</td></tr>
+      <tr><td>Que Jon Arryn murió envenenado</td><td>Vidich <strong>no</strong> lo sabe</td></tr>
+    </table>
+  </section>
+
+</main>
+
+<footer>Resumen visual de <code>CANON_VIDICH.md</code> v1.0. Si hay diferencias, manda el canon.</footer>
+
+</body>
+</html>

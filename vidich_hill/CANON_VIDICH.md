@@ -24,7 +24,7 @@
 | **276** | **Nace Vidich** en Lannisport, hijo de Tywin y de una prostituta del puerto. Tywin lleva tres años viudo; el niño es el resultado de una noche que nadie debía conocer. Es **el menor de todos los hijos de Tywin**: tres años menor que Tyrion |
 | 276–290 | Vidich crece en Lannisport con su madre, en el barrio del puerto. Aprende a coser con las mujeres de la casa (arreglando y cosiendo vestidos), a dibujar y a mezclar cosas de botica. Se gana unas monedas cosiendo y como recadero de orfebres, tintoreros y un boticario del puerto |
 | 281–283 | Rebelión de Robert. Saqueo de Desembarco (Tywin). Cersei se casa con Robert (283) |
-| 284–291 | Nacen Joffrey (~286), Myrcella y Tommen (los hijos de Cersei) |
+| 283–289 | Nacen los hijos de Cersei: Joffrey (~283, poco después de la boda), Myrcella (~287) y Tommen (~289) |
 | **290** | **Vidich, 14 años.** Su madre lo **vende a Tywin por dinero**: se presenta ante la gente de la Roca con el chico y con pruebas de su talento (dibujos de mecanismos, un tinte, una pieza de joyería). Tywin lo examina, le ve utilidad y **se lo lleva a Roca Casterly**. Lo reconoce como hijo suyo, pero **no lo legitima**: sigue siendo **Hill** |
 | 290 | Llega a la Roca. **Tyrion (17)** congenia con él desde el primer día |
 | 290–294 | En la Roca: maestres, libros de la biblioteca de la Roca, talleres. Tywin le pone tutores de alquimia práctica (metales, tintes, aleaciones, venenos *(sin fijar si los ha usado)*), dibujo e ingeniería. Recibe entrenamiento con la espada como cualquier hijo de la casa: **resultado, promedio** |
@@ -33,7 +33,7 @@
 | 294–298 | Vidich reparte su tiempo entre la Roca y Desembarco. Para 298 pasa la **mayor parte del año en la capital**, en la órbita de la reina, aunque sigue respondiendo a las órdenes de Tywin |
 | **298** | **Vidich, 22 años.** Muere Jon Arryn. **Empieza la simulación** |
 
-**Edades en 298 (serie):** Cersei y Jaime ~32 · Tyrion ~25 · **Vidich 22** · Joffrey ~12 · Myrcella ~9 · Tommen ~8 · Robert ~37 · Tywin ~60s.
+**Edades en 298 (serie):** Cersei y Jaime ~32 · Tyrion ~25 · **Vidich 22** · Joffrey ~16 · Myrcella ~11 · Tommen ~9 · Robert ~37 · Tywin ~60s.
 
 ---
 

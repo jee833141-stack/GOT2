@@ -11,5 +11,6 @@ Partida propia de **Vidich Hill**, único personaje jugador.
 
 ## Material de apoyo
 - `referencia_vidich.webp`: imagen de referencia del aspecto de Vidich.
+- `vidich_hill_ficha.html`: ficha visual de Vidich (resumen del canon).
 
 Los datos marcados *(sin fijar)* en el canon los decide el jugador.
