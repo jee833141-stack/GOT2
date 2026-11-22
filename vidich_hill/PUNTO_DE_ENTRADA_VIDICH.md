@@ -34,34 +34,35 @@
 
 ---
 
-## OPCIÓN C — "LAS ROSAS" (Altojardín, 297 DC)
+## OPCIÓN C — "EL SOL" (Lanza del Sol, Dorne, 297 DC)
 
-**Premisa:** finales de 296 o principios de 297, **más de un año antes de D0**. Vidich tiene 21 años. Tywin lo saca de Desembarco y lo envía a **Altojardín** con un motivo oficial y otro real. Cersei protesta, pero obedece a su padre. La partida empieza con la llegada de Vidich a Altojardín y cubre el año previo a la serie. Termina cuando muere Jon Arryn y Tywin lo reclama, y entonces enlaza con la Opción A o la B (la elige el jugador en ese momento).
+**Premisa:** finales de 296 o principios de 297, **más de un año antes de D0**. Vidich tiene 21 años. Tywin piensa a largo plazo: el Dominio, las Tierras de los Ríos y la corte ya los controla o los puede comprar. **Dorne es el único reino donde su nombre no manda**, y es el único que lo odia abiertamente por Elia y sus hijos. Así que envía a Vidich a **Lanza del Sol**. No manda a un hijo legítimo porque los Martell podrían matarlo o retenerlo como rehén. Si pierde a un bastardo, puede negarlo; si el bastardo triunfa, se lleva el mérito. Cersei protesta a gritos ("lo mandas con las víboras"), pero obedece. La partida empieza con la llegada de Vidich a Lanza del Sol y cubre el año previo a la serie. Termina cuando muere Jon Arryn y Tywin lo reclama, y entonces enlaza con la Opción A o la B (la elige el jugador en ese momento).
 
 **Las órdenes de Tywin:**
-- **Oficial:** lady Olenna ha pedido un sastre digno. Vidich vestirá a Margaery y a la casa y no avergonzará a los Lannister.
-- **Real:** averiguar cuánto oro tienen los Tyrell, a quién se lo prestan y cuánto les debe la Corona, qué quiere Mace y "para qué crían a esa chica" (Margaery). Una carta cada luna, por el maestre, sin nada escrito que no pueda leer un Tyrell.
-- **Tercera razón (oculta, solo Tywin):** las **minas de oro de los Lannister se están agotando**. Tywin busca una alianza que pueda pagar. De paso pone a prueba a Vidich y lo aleja de Cersei, que depende demasiado de él.
+- **Oficial:** Vidich es un gesto de cortesía. Lleva regalos (joyas que hizo él mismo, sedas, vino del Rejo) y ofrece sus servicios de joyero, sastre e ingeniero para las obras y los Jardines del Agua. Que ningún dorniense pueda decir que un Lannister llegó con la mano en la espada.
+- **Real:** sondear a Doran Martell. ¿Hasta dónde llega su odio? ¿Qué precio pondría a la paz? ¿Qué relación tiene con los Targaryen exiliados y con las Ciudades Libres? Además, medir la fuerza de las casas de las Marcas (Yronwood, Dayne, Fowler). Una carta cada luna por el maestre, sin nada escrito que no pueda leer un Martell.
+- **Tercera razón (oculta, solo Tywin):** las **minas de oro de los Lannister se están agotando**. El día que el Dominio o la Corona falle, un Dorne hostil será la daga en el costado. Tywin quiere saber si Dorne se puede comprar, casar o neutralizar antes de que se lo pregunte una guerra. De paso pone a prueba a Vidich y lo aleja de Cersei, que depende demasiado de él.
 
 | Personaje | Sabe al arrancar |
 |---|---|
-| **Vidich** | Las órdenes oficial y real. **No** sabe lo de las minas: solo nota que su padre pregunta mucho por el dinero ajeno. Lleva un broche de león, regalo de Cersei. |
+| **Vidich** | Las órdenes oficial y real. **No** sabe lo de las minas. Sabe lo de Elia por rumores, y sabe que su apellido allí es una sentencia. Lleva un broche de león, regalo de Cersei, y debe decidir si lo luce. |
 | **Tywin** | Todo lo anterior, más lo de las minas, que no le cuenta a nadie. |
-| **Cersei** | Que su padre le ha "prestado" a Vidich "como quien presta un caballo". Está celosa y le escribirá. |
-| **Tyrion** | Que Vidich se ha ido al Dominio. Sospecha que no es por la costura. |
-| **Olenna** | Que viene un bastardo de Tywin que cose. Da por hecho que es un espía y decide tenerlo cerca. |
-| **Mace, Alerie, Margaery, Loras** | Que llega un sastre y joyero Lannister de gran talento. Margaery sospecha lo mismo que su abuela. |
+| **Cersei** | Que su padre ha mandado a Vidich "a la boca de la víbora". Teme por él, está furiosa y le escribirá. |
+| **Tyrion** | Que Vidich se ha ido a Dorne. Lo entiende enseguida: "Padre manda al hijo que puede perder". |
+| **Doran** | Que Tywin le envía un bastardo con regalos. Lo lee como un mensaje y decide tenerlo cerca y vigilado. Paciente y frío, no hará nada contra un invitado. |
+| **Oberyn, Ellaria, Serpientes de Arena** | Que llega un Lannister. Oberyn odia a los Lannister, pero tiene debilidad por los bastardos (él mismo cría a ocho hijas bastardas). Lo pondrá a prueba. |
+| **Arianne, Trystane, Areo Hotah** | Que llega un sastre y joyero Lannister de gran talento. Arianne siente curiosidad. Hotah no le quita el ojo de encima. |
 
-**Personajes de Altojardín (canon de la serie):** Mace (vanidoso y hablador, presume de lo que le debe la Corona), Alerie (afable y chismosa), Olenna (la mente de la casa), Margaery (ambiciosa, encantadora, quiere ser reina), Loras (orgulloso, desprecia a los espadachines mediocres; amante secreto de Renly). Renly Baratheon puede visitar Altojardín. Las relaciones empiezan **en neutro**: el curso de abajo es solo lo probable.
+**Personajes de Dorne (canon de la serie):** Doran (enfermo de gota, paciente, la mente de la casa; aparenta debilidad), Oberyn (la Víbora Roja, brillante, venenoso, con una sed de venganza contra la Montaña y Tywin), Ellaria Sand (pareja de Oberyn, libre y apasionada), las Serpientes de Arena (Obara, Nymeria, Tyene), Trystane (joven y noble) y Areo Hotah (capitán de la guardia). En Dorne los bastardos no cargan con la misma deshonra que en el resto de Poniente, así que Vidich nota la diferencia desde el primer día. Las relaciones empiezan **en neutro**: el curso de abajo es solo lo probable.
 
 **Curso probable si nada lo cambia** (guía para el simulador, no hechos consumados):
-- **Primavera:** banquete de bienvenida. Alerie le toma cariño. Olenna lo pone a prueba en el laberinto de setos y decide usarlo en vez de echarlo.
-- **Verano:** Margaery y Vidich se usan mutuamente y se caen bien. Ella pregunta por Cersei y Joffrey. Loras cambia de opinión si Vidich le diseña una espada. En un torneo con Renly, Vidich puede descubrir lo de Renly y Loras. **Si se lo cuenta a Tywin o no lo decide el jugador.**
-- **Otoño:** las cuentas de Mace y los chismes de Alerie revelan la riqueza Tyrell: mucho grano y rentas, menos oro acuñado. Olenna puede soltar *"Dile a tu padre que el oro se acaba y el trigo vuelve cada año"*, una frase que solo Tywin entiende.
-- **Invierno:** Margaery deja ver que quiere ser reina. Mace puede proponer casar a Vidich con una prima vasalla. Tywin se negará salvo que el jugador lo cambie.
-- **Principios de 298:** muere Jon Arryn. Tywin reclama a Vidich, y la partida enlaza con la Opción A o la B.
+- **Primavera:** recepción fría en Lanza del Sol. Doran es cortés y no dice nada. Oberyn lo provoca en público, quizá en un combate de práctica, porque Vidich es mediocre con la espada. Lo que importa es cómo pierde.
+- **Verano:** en los Jardines del Agua, Vidich puede ganarse a Doran con su ingenio de ingeniero (canales, fuentes, aljibes). Tyene puede interesarse por su alquimia y sus venenos, lo que resulta peligroso y útil a la vez. Ellaria y las Serpientes lo tratan como a un igual por ser bastardo.
+- **Otoño:** Oberyn puede contarle a Vidich la historia de Elia "para ver qué cara pone". Vidich descubre que Doran trama algo a largo plazo: un acuerdo antiguo con los Targaryen (el pacto de Viserys y Arianne). **Si se lo cuenta a Tywin o no lo decide el jugador.**
+- **Invierno:** Doran deja caer su precio: "la cabeza de la Montaña" y justicia por Elia. Tywin se negará salvo que el jugador lo cambie. Puede surgir una oferta de matrimonio con una noble dorniense menor.
+- **Principios de 298:** muere Jon Arryn. Tywin reclama a Vidich, y la partida enlaza con la Opción A o la B. Doran se despide con una frase que solo Tywin entiende: *"Dile a tu padre que Dorne recuerda, y que nosotros también sabemos esperar"*.
 
-**Escena de apertura sugerida:** la llegada a Altojardín, con el camino entre jardines, el banquete excesivo de Mace y la mirada de Olenna desde su silla.
+**Escena de apertura sugerida:** la llegada a Lanza del Sol por la Ciudad de las Sombras, con calor y polvo, miradas hostiles al león, y Doran en su silla de ruedas en la Torre del Sol.
 
 ---
 
