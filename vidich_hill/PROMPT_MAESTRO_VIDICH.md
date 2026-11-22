@@ -3,7 +3,7 @@
 
 > **PRIORIDAD:** sigue la **jerarquía de documentos** del principio de `CANON_VIDICH.md`. Las reglas de comportamiento del simulador (Reglas de Oro, Declaración de Control, Bloque de Contenido Adulto) no forman parte de esa escala y no se modifican.
 >
-> **Orden de carga:** 1) este Prompt Maestro → 2) `CANON_VIDICH.md` → 3) el Punto de Entrada elegido (`PUNTO_DE_ENTRADA_VIDICH.md`, opción A o B).
+> **Orden de carga:** 1) este Prompt Maestro → 2) `CANON_VIDICH.md` → 3) el Punto de Entrada elegido (`PUNTO_DE_ENTRADA_VIDICH.md`, opción A, B o C).
 
 ---
 

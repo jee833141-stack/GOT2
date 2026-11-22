@@ -7,7 +7,7 @@ Partida propia de **Vidich Hill**, único personaje jugador.
 ## Orden de carga para la IA
 1. `PROMPT_MAESTRO_VIDICH.md`: las reglas del simulador y la Declaración de Control del PJ.
 2. `CANON_VIDICH.md`: cronología, ficha, relaciones y quién sabe qué. Encaja con el canon de la serie.
-3. `PUNTO_DE_ENTRADA_VIDICH.md`: elegir la opción A (comitiva del rey) o la B (Roca Casterly).
+3. `PUNTO_DE_ENTRADA_VIDICH.md`: elegir la opción A (comitiva del rey), la B (Roca Casterly) o la C (Altojardín, un año antes).
 
 ## Material de apoyo
 - `referencia_vidich.webp`: imagen de referencia del aspecto de Vidich.

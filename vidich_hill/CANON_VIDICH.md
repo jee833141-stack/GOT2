@@ -3,7 +3,7 @@
 
 > **JERARQUÍA DE DOCUMENTOS (vale para todos los archivos de esta carpeta).** Cuando dos fuentes se contradicen, gana la de arriba:
 > 1. **Lo ocurrido en la partida** (hechos ya narrados; Regla de Oro 7). Nada de lo de abajo lo revierte.
-> 2. **El Punto de Entrada elegido** (`PUNTO_DE_ENTRADA_VIDICH.md`, opción A o B): manda **solo sobre el estado inicial del mundo**.
+> 2. **El Punto de Entrada elegido** (`PUNTO_DE_ENTRADA_VIDICH.md`, opción A, B o C): manda **solo sobre el estado inicial del mundo**.
 > 3. **Este canon.** Dentro de él, **§9 (Verdades ocultas) manda sobre §2–8**.
 > 4. **Ficha HTML** (`vidich_hill_ficha.html`), que es solo un resumen visual.
 >
