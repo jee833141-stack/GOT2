@@ -80,3 +80,10 @@
 **Objetos:** el broche de león (de Cersei) y el broche de rosa en oro (de Margaery). Los planos de la espada de Loras.
 
 **Hilos abiertos:** la deuda de Loras · la oferta de Olenna · la sospecha de Tywin · los celos de Cersei hacia Margaery · Margaery mira hacia la corona.
+
+---
+
+## 4. Continuación: Opción A (principios de 298)
+
+- El jugador eligió la **Opción A**. Vidich vuelve a la Fortaleza Roja en plenos preparativos del viaje del rey a Invernalia.
+- **Cersei** lo recibe a solas en su solar, con uno de sus vestidos antiguos mal retocado. Sabe que en el Dominio lo llaman "el león que se sonroja" y que en su propia corte ya hay damas con vestidos suyos de corte Tyrell. Le ordena que viaje al Norte con ella ("no es una pregunta") y le pregunta: *"¿Qué tal la pequeña Margaery? ¿Es tan bonita como dicen?"* Las damas escuchan desde la antesala. **Pendiente: la respuesta de Vidich.**
