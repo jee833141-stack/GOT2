@@ -34,35 +34,35 @@
 
 ---
 
-## OPCIÓN C — "EL SOL" (Lanza del Sol, Dorne, 297 DC)
+## OPCIÓN C — "EL INVIERNO" (Invernalia, el Norte, 297 DC)
 
-**Premisa:** finales de 296 o principios de 297, **más de un año antes de D0**. Vidich tiene 21 años. Tywin piensa a largo plazo: el Dominio, las Tierras de los Ríos y la corte ya los controla o los puede comprar. **Dorne es el único reino donde su nombre no manda**, y es el único que lo odia abiertamente por Elia y sus hijos. Así que envía a Vidich a **Lanza del Sol**. No manda a un hijo legítimo porque los Martell podrían matarlo o retenerlo como rehén. Si pierde a un bastardo, puede negarlo; si el bastardo triunfa, se lleva el mérito. Cersei protesta a gritos ("lo mandas con las víboras"), pero obedece. La partida empieza con la llegada de Vidich a Lanza del Sol y cubre el año previo a la serie. Termina cuando muere Jon Arryn y Tywin lo reclama, y entonces enlaza con la Opción A o la B (la elige el jugador en ese momento).
+**Premisa:** finales de 296 o principios de 297, **más de un año antes de D0**. Vidich tiene 21 años. Tywin piensa a largo plazo: el Dominio, las Tierras de los Ríos y la corte ya los controla o los puede comprar. **El Norte es el único reino donde su nombre no manda**: está lejos, no le debe oro, y Eddard Stark no se deja comprar. Además, Ned es pupilo de Jon Arryn y amigo íntimo de Robert, el hombre que el rey escucharía si alguna vez faltara la Mano. Así que envía a Vidich a **Invernalia**. No manda a un hijo legítimo porque un Lannister de verdad en casa de Stark sería un insulto o un rehén. Un bastardo es un gesto menor, que se puede negar si sale mal. Cersei protesta ("lo mandas al frío con esos salvajes"), pero obedece. La partida empieza con la llegada de Vidich a Invernalia y cubre el año previo a la serie. Termina cuando muere Jon Arryn y el rey anuncia que viene al Norte: Vidich **ya está allí** cuando llega la comitiva, y desde ese momento la partida enlaza con la Opción A o con la B (la elige el jugador).
 
 **Las órdenes de Tywin:**
-- **Oficial:** Vidich es un gesto de cortesía. Lleva regalos (joyas que hizo él mismo, sedas, vino del Rejo) y ofrece sus servicios de joyero, sastre e ingeniero para las obras y los Jardines del Agua. Que ningún dorniense pueda decir que un Lannister llegó con la mano en la espada.
-- **Real:** sondear a Doran Martell. ¿Hasta dónde llega su odio? ¿Qué precio pondría a la paz? ¿Qué relación tiene con los Targaryen exiliados y con las Ciudades Libres? Además, medir la fuerza de las casas de las Marcas (Yronwood, Dayne, Fowler). Una carta cada luna por el maestre, sin nada escrito que no pueda leer un Martell.
-- **Tercera razón (oculta, solo Tywin):** las **minas de oro de los Lannister se están agotando**. El día que el Dominio o la Corona falle, un Dorne hostil será la daga en el costado. Tywin quiere saber si Dorne se puede comprar, casar o neutralizar antes de que se lo pregunte una guerra. De paso pone a prueba a Vidich y lo aleja de Cersei, que depende demasiado de él.
+- **Oficial:** Vidich es un gesto de cortesía entre Grandes Casas. Lleva regalos (joyas que hizo él mismo, paños finos, vino del Rejo) y ofrece sus servicios de ingeniero, joyero y sastre. Puede ayudar con los invernaderos, las aguas termales que calientan los muros, las fraguas o lo que Invernalia necesite. Que nadie en el Norte pueda decir que los Lannister solo saben comprar.
+- **Real:** sondear a Eddard Stark. ¿Qué piensa de Robert, de los Lannister y de Jon Arryn? ¿Quién le escribe desde el Valle y desde Aguasdulces? Además, medir la fuerza del Norte: los Bolton, los Umber, los Karstark y Puerto Blanco (Manderly), y el estado del Muro. Una carta cada luna por el maestre Luwin, sin nada escrito que no pueda leer un Stark.
+- **Tercera razón (oculta, solo Tywin):** las **minas de oro de los Lannister se están agotando**, y Tywin sabe que Jon Arryn hace preguntas en la corte. Si Arryn falta, Robert buscará a Ned. Tywin quiere tener a alguien dentro de esa casa antes de que pase. De paso pone a prueba a Vidich y lo aleja de Cersei, que depende demasiado de él.
 
 | Personaje | Sabe al arrancar |
 |---|---|
-| **Vidich** | Las órdenes oficial y real. **No** sabe lo de las minas. Sabe lo de Elia por rumores, y sabe que su apellido allí es una sentencia. Lleva un broche de león, regalo de Cersei, y debe decidir si lo luce. |
-| **Tywin** | Todo lo anterior, más lo de las minas, que no le cuenta a nadie. |
-| **Cersei** | Que su padre ha mandado a Vidich "a la boca de la víbora". Teme por él, está furiosa y le escribirá. |
-| **Tyrion** | Que Vidich se ha ido a Dorne. Lo entiende enseguida: "Padre manda al hijo que puede perder". |
-| **Doran** | Que Tywin le envía un bastardo con regalos. Lo lee como un mensaje y decide tenerlo cerca y vigilado. Paciente y frío, no hará nada contra un invitado. |
-| **Oberyn, Ellaria, Serpientes de Arena** | Que llega un Lannister. Oberyn odia a los Lannister, pero tiene debilidad por los bastardos (él mismo cría a ocho hijas bastardas). Lo pondrá a prueba. |
-| **Arianne, Trystane, Areo Hotah** | Que llega un sastre y joyero Lannister de gran talento. Arianne siente curiosidad. Hotah no le quita el ojo de encima. |
+| **Vidich** | Las órdenes oficial y real. **No** sabe lo de las minas ni lo de las preguntas de Arryn. Sabe que el Norte no quiere a los Lannister desde el Saqueo de Desembarco y la muerte de Elia, que Ned nunca le perdonó a Tywin. Lleva un broche de león, regalo de Cersei, y debe decidir si lo luce. |
+| **Tywin** | Todo lo anterior, más lo de las minas y Arryn, que no le cuenta a nadie. |
+| **Cersei** | Que su padre ha mandado a Vidich "al fin del mundo, con los lobos". Teme que allí descubra o cuente algo, está inquieta y le escribirá. |
+| **Tyrion** | Que Vidich se ha ido a Invernalia. Lo entiende enseguida: "Padre manda al hijo que puede perder a casa del único hombre honrado del reino". Quizá quiera ver el Muro algún día. |
+| **Eddard** | Que Tywin le envía un bastardo con regalos. Lo lee como un mensaje y desconfía, pero la hospitalidad es sagrada en el Norte: lo recibirá con justicia y sin calor. |
+| **Catelyn** | Que llega un bastardo a su casa. Lo mira con la misma frialdad que a Jon Nieve, y con más, por ser Lannister. |
+| **Robb, Sansa, Arya, Bran, Theon, Jon Nieve, Luwin** | Que llega un Lannister con talento de ingeniero y joyero. Sansa siente curiosidad por el sastre y joyero del sur. Bran, por los mecanismos. Jon Nieve ve a otro bastardo reconocido por su padre y no sabe si sentir simpatía o envidia. Theon, rehén él mismo, lo trata con burla y complicidad. Luwin, como maestre, comparte su interés por la alquimia. |
 
-**Personajes de Dorne (canon de la serie):** Doran (enfermo de gota, paciente, la mente de la casa; aparenta debilidad), Oberyn (la Víbora Roja, brillante, venenoso, con una sed de venganza contra la Montaña y Tywin), Ellaria Sand (pareja de Oberyn, libre y apasionada), las Serpientes de Arena (Obara, Nymeria, Tyene), Trystane (joven y noble) y Areo Hotah (capitán de la guardia). En Dorne los bastardos no cargan con la misma deshonra que en el resto de Poniente, así que Vidich nota la diferencia desde el primer día. Las relaciones empiezan **en neutro**: el curso de abajo es solo lo probable.
+**Personajes del Norte (canon de la serie):** Eddard (honrado, callado, justo, desconfía de los Lannister), Catelyn (sureña y piadosa, fría con los bastardos), Robb (heredero, noble y algo impulsivo), Jon Nieve (bastardo de Ned, quiere ir a la Guardia de la Noche), Theon Greyjoy (pupilo y rehén), Sansa, Arya, Bran, el maestre Luwin, Ser Rodrik Cassel (maestro de armas) y la Vieja Tata. Entre los vasallos están Roose Bolton, el Gran Jon Umber y Wyman Manderly. En el Norte un bastardo lleva el apellido **Nieve**, no Hill, y eso le recuerda a Vidich a cada momento lo que es. Las relaciones empiezan **en neutro**: el curso de abajo es solo lo probable.
 
 **Curso probable si nada lo cambia** (guía para el simulador, no hechos consumados):
-- **Primavera:** recepción fría en Lanza del Sol. Doran es cortés y no dice nada. Oberyn lo provoca en público, quizá en un combate de práctica, porque Vidich es mediocre con la espada. Lo que importa es cómo pierde.
-- **Verano:** en los Jardines del Agua, Vidich puede ganarse a Doran con su ingenio de ingeniero (canales, fuentes, aljibes). Tyene puede interesarse por su alquimia y sus venenos, lo que resulta peligroso y útil a la vez. Ellaria y las Serpientes lo tratan como a un igual por ser bastardo.
-- **Otoño:** Oberyn puede contarle a Vidich la historia de Elia "para ver qué cara pone". Vidich descubre que Doran trama algo a largo plazo: un acuerdo antiguo con los Targaryen (el pacto de Viserys y Arianne). **Si se lo cuenta a Tywin o no lo decide el jugador.**
-- **Invierno:** Doran deja caer su precio: "la cabeza de la Montaña" y justicia por Elia. Tywin se negará salvo que el jugador lo cambie. Puede surgir una oferta de matrimonio con una noble dorniense menor.
-- **Principios de 298:** muere Jon Arryn. Tywin reclama a Vidich, y la partida enlaza con la Opción A o la B. Doran se despide con una frase que solo Tywin entiende: *"Dile a tu padre que Dorne recuerda, y que nosotros también sabemos esperar"*.
+- **Primavera:** recepción correcta y fría. Ned es cortés y no dice nada. Ser Rodrik lo prueba en el patio, o lo hace Robb, y Vidich es mediocre con la espada. Lo que importa es cómo pierde, y quién se ríe (Theon).
+- **Verano:** Vidich puede ganarse a la casa con su ingenio: los invernaderos, las tuberías de agua caliente, las forjas de Mikken, un regalo de joyería para Sansa o un juguete mecánico para Bran. Comparte con Jon Nieve la condición de bastardo, lo que puede acabar en amistad o en rivalidad.
+- **Otoño:** una visita a un vasallo o al Muro (Benjen Stark) puede enseñarle que en el Norte se teme algo más que el invierno. Vidich descubre cartas que llegan del Valle: Lysa o Jon Arryn le escriben a Ned. **Si se lo cuenta a Tywin o no lo decide el jugador.**
+- **Invierno:** Ned empieza a respetarlo o a vigilarlo más, según lo que haya hecho. Puede surgir una propuesta de matrimonio con una noble norteña menor, o un pacto discreto con Puerto Blanco por el comercio.
+- **Principios de 298:** muere Jon Arryn. Llega el cuervo: el rey viene al Norte para pedirle a Ned que sea su Mano. Vidich ya está en Invernalia cuando llega la comitiva (Cersei, Jaime, Tyrion, Joffrey), y la partida enlaza con la Opción A o con la B. Tywin le escribe una sola línea: *"Ahora sabrás por qué te envié"*.
 
-**Escena de apertura sugerida:** la llegada a Lanza del Sol por la Ciudad de las Sombras, con calor y polvo, miradas hostiles al león, y Doran en su silla de ruedas en la Torre del Sol.
+**Escena de apertura sugerida:** la llegada a Invernalia por el camino Real, con nieve de verano, vaho en los caballos y miradas recelosas al león, y Ned esperando en el patio sin sonreír.
 
 ---
 
