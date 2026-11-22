@@ -12,5 +12,6 @@ Partida propia de **Vidich Hill**, único personaje jugador.
 ## Material de apoyo
 - `referencia_vidich.webp`: imagen de referencia del aspecto de Vidich.
 - `vidich_hill_ficha.html`: ficha visual de Vidich (resumen del canon).
+- `PARTIDA_C_ANO_297.md`: registro de la partida en la Opción C (el año en Altojardín). Manda sobre el canon.
 
 Los datos marcados *(sin fijar)* en el canon los decide el jugador.
