@@ -23,17 +23,19 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 
 | Año DC | Evento |
 |---|---|
-| ~ | Nace Loras, hermano de los gemelos *(orden exacto respecto a ellos, según la serie; sin fijar)* |
+| ~272 | Nace **Willas**, el primogénito y heredero de Altojardín |
+| ~274 | Nace **Garlan** |
 | **278** | **Nacen Margaery y Vlimir**, gemelos, en Altojardín, hijos de Mace Tyrell y Alerie Hightower. Margaery nace primero *(sin fijar; por defecto, ella)* |
+| ~280 | Nace **Loras**, el menor |
 | 281–283 | Rebelión de Robert. Altojardín lucha por los Targaryen (asedio de Bastión de Tormentas) y luego dobla la rodilla |
 | ~284–290 | Infancia en Altojardín. Vlimir se escapa de las clases, se pierde por los bosques y el Mander y vuelve con barro y conejos. Aprende el arco con los cazadores de la casa antes que con los maestros de armas |
 | ~290 | **El castigo de la abuela:** tras una escapada que asustó a toda la casa *(cuál, sin fijar)*, **Olenna le pone a coser** con las damas, "para que aprenda a quedarse sentado en un sitio". Vlimir, por puro orgullo, **aprende hasta ser el mejor**, para no darle el gusto de verlo sufrir |
 | 290–297 | Se convierte en **el mejor arquero de la familia**. Explora el Dominio y sus bordes (Marcas de Dorne, el Rejo, Antigua, las Tierras de la Tormenta) *(hasta dónde llegó, sin fijar)*. Choca con su padre. Quiere ser **algo más que un noble** de corte y bodas |
 | **298** | Muere Jon Arryn. **Empieza la simulación** (según el Punto de Entrada) |
 
-**Edades en 298 (serie):** Margaery y **Vlimir 20** · Loras ~ (serie) · Mace ~ (serie) · Olenna ~70 · Renly ~ (serie) · Joffrey ~16.
+**Edades en 298:** Willas ~26 · Garlan ~24 · Margaery y **Vlimir 20** · Loras ~18 · Mace ~ (serie) · Olenna ~70 · Renly ~ (serie) · Joffrey ~16.
 
-> **Nota sobre los hermanos:** en la serie, los hijos de Mace que aparecen son **Loras y Margaery** (Willas y Garlan son de los libros y no aparecen). Por defecto, esta partida sigue la serie: los hermanos de Vlimir son **Margaery y Loras**. Si el jugador quiere incluir a Willas y Garlan, lo fija aquí antes de empezar.
+> **Nota sobre los hermanos:** Willas y Garlan son de los libros y no aparecen en la serie. **En esta partida existen** y son los hermanos mayores. El orden sigue los libros: Willas, Garlan, los gemelos y Loras, el menor. Las edades son aproximadas.
 
 ---
 
@@ -41,7 +43,7 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 
 - **Nombre:** Vlimir Tyrell.
 - **Casa:** Tyrell de Altojardín. Lema: *"Crecer fuertes"*. Emblema: rosa dorada sobre campo verde.
-- **Posición:** hijo legítimo de lord Mace Tyrell, **hermano gemelo de Margaery**, nieto de Olenna. **No es el heredero** *(en la serie, Loras es el hijo varón visible; quién hereda Altojardín si importa, sin fijar)*.
+- **Posición:** hijo legítimo de lord Mace Tyrell, **hermano gemelo de Margaery**, nieto de Olenna. **No es el heredero:** el heredero es Willas. Vlimir es el tercer hijo varón.
 - **Edad:** 20 años en 298 DC.
 - **Residencia en 298:** Altojardín, cuando está; pasa temporadas fuera explorando.
 
@@ -58,7 +60,12 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 - **Se llevan bien.** Se entienden sin hablar mucho. Ella es la que sabe ganarse a todos; él, el que no se molesta.
 - Margaery es la del canon: lista, ambiciosa, encantadora y calculadora. Quiere a su hermano, y también sabe usarlo.
 
-### Loras — el hermano
+### Willas y Garlan — los hermanos mayores
+- **Buena relación con los dos.**
+- **Willas:** el heredero. Lo dejó cojo una justa contra Oberyn Martell (como en los libros). Es tranquilo y culto, y cría perros, caballos y halcones. Comparte con Vlimir el gusto por la caza.
+- **Garlan, "el Galante":** buen caballero y buen espadachín. Está casado con Leonette Fossoway. Es el más sensato de los varones. *(Dónde está en 298, sin fijar; por defecto, en Altojardín o en sus tierras.)*
+
+### Loras — el hermano menor
 - **Buena relación.** Loras es el Caballero de las Flores; Vlimir, el que no compite en justas sino con el arco.
 - Vlimir sabe (o no) lo de Loras y Renly *(sin fijar)*.
 
@@ -83,6 +90,7 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 - **Rebelde y explorador.** Le aburren los banquetes; prefiere el camino, el bosque y el río.
 - **Orgulloso hasta la terquedad:** si le dicen que no puede, lo hace mejor que nadie (la costura es la prueba).
 - Quiere ser **más que un noble**: no sabe aún qué, pero no quiere ser una rosa más en un jarrón.
+- **Desprecia la esgrima y las justas:** prefiere matar de lejos, o no tener que hacerlo. Por eso choca con la cultura caballeresca de su familia, Loras incluido.
 - Directo, quejica con quien confía, callado con quien no.
 - (El simulador **no** decide nada de esto en escena: describe cómo lo ve el mundo. Ver Declaración de Control.)
 
@@ -94,7 +102,7 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 | **Costura y sastrería** | Muy alto | Castigo de Olenna convertido en oficio. Se hace su ropa |
 | **Exploración y supervivencia** | Alto | Bosques, ríos, caminos del Dominio; rastreo y caza |
 | **Equitación** | Buena | Como cualquier hijo noble, más los caminos |
-| **Espada** | *(sin fijar; por defecto, correcta)* | Entrenado como hijo de gran casa, sin destacar |
+| **Espada** | **Baja, por decisión propia** | Nunca le interesó. Para él, "solo un idiota se planta delante de otro para que se apuñalen". Recibió el entrenamiento mínimo de un hijo de gran casa y lo olvidó con gusto. Cuerpo a cuerpo está en desventaja ante cualquier hombre entrenado |
 | **Letras, cuentas, cortesía** | Sí | Educado en Altojardín; sabe comportarse cuando quiere |
 
 ## 7. POSICIÓN EN EL MUNDO (298)
@@ -116,7 +124,7 @@ La serie no fija la edad exacta de Margaery. Aquí se fija: **Margaery y Vlimir 
 ## 9. VERDADES OCULTAS (manda sobre §2–8)
 
 - *(Ninguna fijada al arrancar.)* Si el jugador quiere un secreto para Vlimir (de sus viajes, de su pelo negro, de algo que vio), lo fija aquí antes de empezar.
-- **Nada de lo anterior** convierte a Vlimir en heredero de Altojardín ni en caballero *(si es caballero, sin fijar)*.
+- **Nada de lo anterior** convierte a Vlimir en heredero de Altojardín ni en caballero: **no es caballero** y no le interesa serlo.
 
 ---
 

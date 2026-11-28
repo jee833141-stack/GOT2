@@ -46,7 +46,7 @@
 | **Margaery** | Lo de Renly y Loras, y que su matrimonio no se ha consumado (como en la serie). Si se lo cuenta a Vlimir, lo decide la partida. |
 | **Olenna** | Viene al campamento cuando la serie lo dice. |
 
-**Escena de apertura sugerida:** el campamento al amanecer, tiendas verdes y doradas, y una práctica de tiro en la que los arqueros de Renly no le llegan a la suela a Vlimir.
+**Escena de apertura sugerida:** el campamento al amanecer, tiendas verdes y doradas, y una práctica de tiro en la que los arqueros de Renly no le llegan a la suela a Vlimir. Garlan y Loras están en el campamento (Willas, cojo, se queda en Altojardín).
 
 ---
 

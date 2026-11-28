@@ -2,7 +2,7 @@
 
 Partida propia de **Vlimir Tyrell**, único personaje jugador.
 
-**Vlimir Tyrell**, 20 años en 298 DC, hermano gemelo de Margaery, hijo de Mace y nieto de Olenna. El mejor arquero de la familia, explorador rebelde y sastre a la fuerza (castigo de su abuela que convirtió en orgullo).
+**Vlimir Tyrell**, 20 años en 298 DC, hermano gemelo de Margaery, tercer hijo varón de Mace y nieto de Olenna. El mejor arquero de la familia, explorador rebelde y sastre a la fuerza (castigo de su abuela que convirtió en orgullo).
 
 ## Orden de carga para la IA
 1. `PROMPT_MAESTRO_VLIMIR.md`: las reglas del simulador y la Declaración de Control del PJ.
